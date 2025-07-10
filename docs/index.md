@@ -1,11 +1,21 @@
 
 Refer to the following subjects
 
-[[Sessions]]
-[[Characters]]
-[[Creatures]]
-[[Locations]]
-[[Quests]]
-[[Villages]]
 
-[[Money]]
+
+
+
+
+
+
+
+| [[Sessions]]   |
+| -------------- |
+| [[Characters]] |
+| [[Locations]]  |
+| [[Quests]]     |
+| [[Villages]]   |
+| [[Money]]      |
+
+
+
