@@ -1,0 +1,4 @@
+---
+Type: Herberg
+---
+in [[Termalaine ❄️]]

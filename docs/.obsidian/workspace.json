@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "276c173b607057f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfae3731030d3898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d85ca503581010a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Icewind Dale/Sessions/Session 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 7"
+            }
+          },
+          {
+            "id": "8f8d4f74795b0bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Icewind Dale/Quests/Vermiste zoon uit Bremen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vermiste zoon uit Bremen"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7ca32a1031a6a2f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de87111ed36a4356",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f600d45cd3d9ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "65845bceabbdada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd7a7486fc7619d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10a7556776570677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1295f937fdab16a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6715f2c53dd2188b",
+    "type": "split",
+    "children": [
+      {
+        "id": "42f44de95bc91dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "051f2f0fb0686ca2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "22aa401ab8d1fe04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a4bd69610a81d81f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b1cbbf4dc2755c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dbd7a7486fc7619d",
+  "lastOpenFiles": [
+    "Icewind Dale/Quests/Beesten in mines.md",
+    "Icewind Dale/Quests/Archin Brotherhood is slecht!.md",
+    "Icewind Dale/Characters/Skog Traustur (Jesse).md",
+    "Icewind Dale/Characters/Nãowynn Bluewhisper (Eline).md",
+    "Icewind Dale/Characters/Elena Footshadow (Lies).md",
+    "Icewind Dale/Characters/Drawr Poof (Lars).md",
+    "Icewind Dale/Characters/Althea Sardothien (Sara).md",
+    "Icewind Dale/Sessions/Session 3.md",
+    "Icewind Dale/Sessions/Session 7.md",
+    "Icewind Dale/Sessions/Session 5.md",
+    "Icewind Dale/Sessions/Routes/Route session1.png",
+    "Icewind Dale/Locations/Bell for Anjak.md",
+    "Icewind Dale/Creatures/Yeti (lvl 9).md",
+    "Icewind Dale/Creatures/Yeti (lvl 3).md",
+    "Icewind Dale/Creatures/White moose.md",
+    "Icewind Dale/Creatures/Vulture.md",
+    "Icewind Dale/Creatures/Grel.md",
+    "Icewind Dale/Creatures/Chingra.md",
+    "Icewind Dale/Creatures/Banshee.md",
+    "Icewind Dale/Creatures/Aalbes Boompje (Groot).md",
+    "Icewind Dale/Characters/Perilou Fishfinger.md",
+    "Icewind Dale/Locations/Buried Treasures.md",
+    "Icewind Dale/Quests/Vermiste zoon uit Bremen.md",
+    "Icewind Dale/Characters/Zanar.md",
+    "Icewind Dale/Characters/Vernon Brake.md",
+    "Icewind Dale/Characters/Torga.md",
+    "Icewind Dale/Characters/Trex.md",
+    "Icewind Dale/Sessions/Routes/Map.png",
+    "Icewind Dale/Sessions/Routes/Route session5.png",
+    "Icewind Dale/Sessions/Routes/Route session6.png",
+    "Icewind Dale/Sessions/Routes/Route session7.png",
+    "Pasted image 20250710001438.png",
+    "Icewind Dale/Sessions/Routes/Route session2.png",
+    "Untitled.canvas",
+    "Icewind Dale/Sessions/Routes/Map grid.png",
+    "Icewind Dale/Sessions/Routes/Route session4.png",
+    "Icewind Dale/Sessions/Routes/Route session3.png",
+    "Icewind Dale/Sessions/Routes",
+    "Icewind Dale/Quests",
+    "Icewind Dale/Money",
+    "Icewind Dale/Locations",
+    "Icewind Dale/Creatures",
+    "Icewind Dale/Characters",
+    "Icewind Dale/Villages",
+    "Icewind Dale/Sessions",
+    "Icewind Dale"
+  ]
+}
