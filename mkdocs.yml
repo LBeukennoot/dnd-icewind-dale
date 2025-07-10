@@ -2,6 +2,7 @@ site_name: Icewind Dale
 
 nav:
   - Home: index.md
+  - Session 1: /sessions/Session 1.md
 
 theme:
     name: 'material'
