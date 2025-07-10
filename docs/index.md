@@ -7,3 +7,5 @@ Refer to the following subjects
 [[Locations]]
 [[Quests]]
 [[Villages]]
+
+[[Money]]

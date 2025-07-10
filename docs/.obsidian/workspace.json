@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfae3731030d3898",
+        "id": "07b9815f5616d6bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d85ca503581010a1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Icewind Dale/Sessions/Session 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 7"
-            }
-          },
-          {
-            "id": "8f8d4f74795b0bce",
+            "id": "ab496fc83faacd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Icewind Dale/Quests/Vermiste zoon uit Bremen.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,26 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vermiste zoon uit Bremen"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7ca32a1031a6a2f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de87111ed36a4356",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "index"
             }
           }
         ]
@@ -220,8 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbd7a7486fc7619d",
+  "active": "ab496fc83faacd24",
   "lastOpenFiles": [
+    "Villages/Villages.md",
+    "Sessions/Sessions.md",
+    "Quests/Quests.md",
+    "Money/Money.md",
+    "Locations/Locations.md",
+    "Creatures/Creatures.md",
     "Icewind Dale/Quests/Beesten in mines.md",
     "Icewind Dale/Quests/Archin Brotherhood is slecht!.md",
     "Icewind Dale/Characters/Skog Traustur (Jesse).md",
@@ -243,12 +204,6 @@
     "Icewind Dale/Creatures/Banshee.md",
     "Icewind Dale/Creatures/Aalbes Boompje (Groot).md",
     "Icewind Dale/Characters/Perilou Fishfinger.md",
-    "Icewind Dale/Locations/Buried Treasures.md",
-    "Icewind Dale/Quests/Vermiste zoon uit Bremen.md",
-    "Icewind Dale/Characters/Zanar.md",
-    "Icewind Dale/Characters/Vernon Brake.md",
-    "Icewind Dale/Characters/Torga.md",
-    "Icewind Dale/Characters/Trex.md",
     "Icewind Dale/Sessions/Routes/Map.png",
     "Icewind Dale/Sessions/Routes/Route session5.png",
     "Icewind Dale/Sessions/Routes/Route session6.png",
