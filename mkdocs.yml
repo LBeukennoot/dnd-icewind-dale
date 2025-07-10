@@ -1,7 +1,7 @@
 site_name: Icewind Dale
 
 nav:
-  - Home: Home.md
+  - Home: index.md
 
 theme:
     name: 'material'
