@@ -72,11 +72,11 @@ markdown_extensions:
 
 plugins:
   - backlinks_section:
-    add_to_toc: false
-    hide_if_empty: true
-    title: "Links mentioned"
-    description: ""
-    description_no_links: "No links."
+      add_to_toc: false
+      hide_if_empty: true
+      title: "Links mentioned"
+      description: ""
+      description_no_links: "No links."
   - search
   - roamlinks
   - blog
