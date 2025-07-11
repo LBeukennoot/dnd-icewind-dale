@@ -5,7 +5,7 @@ Refer to the following subjects
 
 <div class="grid cards" markdown>
 
--   :fontawesome-note-sticky:{ .lg .middle } __Sessions__
+-   :fontawesome-note-sticky __Sessions__
 
     ---
 
@@ -21,7 +21,7 @@ Refer to the following subjects
 
     [:octicons-arrow-right-24: Reference](#)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :open_book:{ .lg .middle } __Made to measure__
 
     ---
 
@@ -29,7 +29,7 @@ Refer to the following subjects
 
     [:octicons-arrow-right-24: Customization](#)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   :octicons-repo:{ .lg .middle } __Open Source, MIT__
 
     ---
 
