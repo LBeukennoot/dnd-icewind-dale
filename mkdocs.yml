@@ -1,5 +1,6 @@
 site_name: Icewind Dale
 site_url: https://lbeukennoot.github.io/dnd-icewind-dale/
+repo_url: https://github.com/LBeukennoot/dnd-icewind-dale
 
 nav:
   - Home: index.md
