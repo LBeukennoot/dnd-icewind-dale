@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Hlin Trolbane.md",
+                "file": "Villages/Villages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hlin Trolbane"
+              "title": "Villages"
             }
           }
         ]
@@ -175,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e887707d97519074",
+  "active": "dbd7a7486fc7619d",
   "lastOpenFiles": [
-    "Sessions/Session 1.md",
     "Characters/Hlin Trolbane.md",
+    "Sessions/Session 1.md",
     "Hlin_Trolbane.md",
     "Hlin.md",
     "Sessions/Session 2.md",
@@ -197,7 +197,7 @@
     "Villages/Caer-Denival ❄️.md",
     "Villages/Bremen ❄️.md",
     "Villages/Bryn Shander ❄️.md",
-    "Home.md",
+    "index.md",
     "Quests/Archin Brotherhood is slecht!.md",
     "Quests/Beesten in mines.md",
     "Quests/Chingra's vangen.md",

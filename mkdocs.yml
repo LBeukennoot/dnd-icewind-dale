@@ -4,7 +4,7 @@ repo_url: https://github.com/LBeukennoot/dnd-icewind-dale
 repo_name: LBeukennoot/dnd-icewind-dale
 
 nav:
-  - Home: Home.md
+  - Home: index.md
   - Sessions: 
     - Session 1: Sessions/Session 1
     - Session 2: Sessions/Session 2
@@ -18,9 +18,9 @@ nav:
     - Bryn Shander ❄: Villages/Bryn Shander ❄%EF%B8%8F/
     - Caer-Denival ❄: Villages/Caer-Denival ❄%EF%B8%8F/
     - Caer-Konig ❄: Villages/Caer-Konig ❄%EF%B8%8F/
-    - Dougan's Hole: Villages/Dougan's Hole%EF%B8%8F/
+    - Dougan's Hole: Villages/Dougan's Hole/
     - Easthaven ❄: Villages/Easthaven ❄%EF%B8%8F/
-    - Good Mead: Villages/Good Mead%EF%B8%8F/
+    - Good Mead: Villages/Good Mead/
     - Lonelywood ❄: Villages/Lonelywood ❄%EF%B8%8F/
     - Targos ❄: Villages/Targos ❄%EF%B8%8F/
     - Termalaine ❄: Villages/Termalaine ❄%EF%B8%8F/
