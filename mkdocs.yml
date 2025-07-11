@@ -90,6 +90,9 @@ plugins:
   - pub-obsidian:
       backlinks:
         enabled: true
+      links:
+        # wikilinks_enabled: true
+        img_lazy: true
   # - backlinks_section:
   #     add_to_toc: false
   #     hide_if_empty: false
