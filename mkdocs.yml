@@ -87,7 +87,8 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - mkdocs-backlinks
+  - autorefs:
+      resolve_closest: true
   # - pub-obsidian:
   #     obsidian_dir: .obsidian
   #     backlinks:
