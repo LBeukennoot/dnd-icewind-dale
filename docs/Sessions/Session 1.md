@@ -102,16 +102,16 @@ huizen zijn via ondergrondse gangen verbonden
 vader is visser → nu ziek dus [[Martha Peschkliek]] helpt
 
 !!! question "[[Beesten in mines]]"
-	[[Gem mine]] is geplaagd door beesten -> underdark
-	50 goud als reward
+> 	[[Gem mine]] is geplaagd door beesten -> underdark
+> 	50 goud als reward
 
 !!! question "[[Leider vermoord]]"
-	Een leider is vermoord door 9m grote reus
-	Honingmede is gestolen uit [[Good Mead]]
+> 	Een leider is vermoord door 9m grote reus
+> 	Honingmede is gestolen uit [[Good Mead]]
 
 !!! question "[[Kranok is ziek]]"
-	Dorpsspreker [[Kranok]] is ziek en daarom lang niet gezien
-	bevindt zich in kasteel van [[Caer-Denival ❄️]]: [[The Caer]]
+> 	Dorpsspreker [[Kranok]] is ziek en daarom lang niet gezien
+> 	bevindt zich in kasteel van [[Caer-Denival ❄️]]: [[The Caer]]
 
 krantenjongen verwijst ons naar [[Blue Clam]]
 

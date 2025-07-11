@@ -5,7 +5,7 @@ Refer to the following subjects
 
 <div class="grid cards" markdown>
 
--   :fontawesome-note-sticky __Sessions__
+-   :fontawesome-solid-note-sticky: __Sessions__
 
     ---
 
@@ -13,7 +13,7 @@ Refer to the following subjects
 
     [:octicons-arrow-right-24: Ga naar sessies](#)
 
--   :fontawesome-note:{ .lg .middle } __It's just Markdown__
+-   :fontawesome-solid-note-sticky:{ .lg .middle } __It's just Markdown__
 
     ---
 

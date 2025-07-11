@@ -15,9 +15,8 @@ De [[Karavaan]] is er nog.
 Na een typische dag vissen komen mensen bij [[Blue Clam]] iets drinken. [[Vernon Brake]] Neutral good Ork staat bij de bar, en we hebben geluk want hij kent een aantal jagers die in de [[Lonelywood ❄️]] actief zijn, die komen dan naar [[Termalaine ❄️]].
 
 
-
-> [[Kranok is ziek]]
-> In [[Caer-Denival ❄️]] hebben ze al een tijdje de dorpsspreker niet gezien. [[Kranok]] is ziek geworden. Synistere figuren komen steeds in en uit (de side quest die we eerder ook gehoord hebben toevallig)
+!!! question "[[Kranok is ziek]]"
+> 	In [[Caer-Denival ❄️]] hebben ze al een tijdje de dorpsspreker niet gezien. [[Kranok]] is ziek geworden. Synistere figuren komen steeds in en uit (de side quest die we eerder ook gehoord hebben toevallig)
 
 
 We gaan nu naar [[Eastside]], daar komen we weer [[Martha Peschkliek]] tegen.
