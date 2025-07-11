@@ -1,1 +1,10 @@
 onderdeel van de campaign
+
+{% if backlinks %}
+<h3>Backlinks:</h3>
+<ul>
+    {% for backlink in backlinks %}
+    <li><a href="/{{ backlink.url }}">{{ backlink.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}
