@@ -1,11 +1,13 @@
 site_name: Icewind Dale
 site_url: https://lbeukennoot.github.io/dnd-icewind-dale/
 repo_url: https://github.com/LBeukennoot/dnd-icewind-dale
+repo_name: LBeukennoot/dnd-icewind-dale
 
 nav:
   - Home: index.md
-  - Session 1: Sessions/Session 1
-  - Session 2: Sessions/Session 2
+  - Sessions: 
+    - Session 1: Sessions/Session 1
+    - Session 2: Sessions/Session 2
 
 theme:
     name: 'material'
@@ -30,6 +32,9 @@ theme:
         name: Switch to light mode
 
     include_sidebar: true
+
+    features:
+      - navigation.path
 
 # Extensions
 markdown_extensions:
