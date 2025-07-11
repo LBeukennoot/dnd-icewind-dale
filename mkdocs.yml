@@ -87,10 +87,11 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - pub-obsidian:
-      obsidian_dir: .obsidian
-      backlinks:
-        enabled: true
+  - mkdocs-backlinks
+  # - pub-obsidian:
+  #     obsidian_dir: .obsidian
+  #     backlinks:
+  #       enabled: true
   # - backlinks_section:
   #     add_to_toc: false
   #     hide_if_empty: false

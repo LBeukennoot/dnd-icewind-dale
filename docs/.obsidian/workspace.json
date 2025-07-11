@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Session 1"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "e887707d97519074",
   "lastOpenFiles": [
+    "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "Locations/Northlook.md",
     "Sessions/Sessions.md",
@@ -202,7 +203,6 @@
     "Quests/Hulp met vandalen in Caer-Konig.md",
     "Quests/Kranok is ziek.md",
     "Quests/Leider vermoord.md",
-    "Quests/Minder dwergen.md",
     "images/creatures.png",
     "images/villages.png",
     "images",

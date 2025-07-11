@@ -163,3 +163,12 @@ kobolden zijn onschuldig → [[Trex]] is opperdraak met houtvleugels. het blijkt
 
 ([[Elena Footshadow (Lies)]])
 END OF SESSION
+
+{% if backlinks %}
+<h3>Backlinks:</h3>
+<ul>
+    {% for backlink in backlinks %}
+    <li><a href="/{{ backlink.url }}">{{ backlink.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}
