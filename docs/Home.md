@@ -1,15 +1,12 @@
 
-![[icewind_dale.png]]
-Refer to the following subjects
-
+%% ![[icewind_dale.png]] %%
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-note-sticky:{ .lg .middle } __Sessions__
+-   ![[session_notes.png]]
 
     ---
 
-    ![[session_notes.png]]
     De beschrijvingen van de gebeurtenissen tijdens de campaign, verdeeld in individuele sessies.
 
     [:octicons-arrow-right-24: Sessies](Sessions)
