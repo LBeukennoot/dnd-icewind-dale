@@ -8,6 +8,11 @@ nav:
   - Sessions: 
     - Session 1: Sessions/Session 1
     - Session 2: Sessions/Session 2
+    - Session 3: Sessions/Session 3
+    - Session 4: Sessions/Session 4
+    - Session 5: Sessions/Session 5
+    - Session 6: Sessions/Session 6
+    - Session 7: Sessions/Session 7
 
 theme:
     name: 'material'
@@ -63,6 +68,7 @@ markdown_extensions:
       permalink: true
 
 plugins:
+  - mkdocs-backlinks
   - search
   - roamlinks
   - blog

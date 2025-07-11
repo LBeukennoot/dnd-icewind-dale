@@ -11,10 +11,24 @@
             "id": "d60c2fe1a4612f6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Sessions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sessions"
             }
           }
         ]
@@ -163,6 +177,8 @@
   },
   "active": "d60c2fe1a4612f6a",
   "lastOpenFiles": [
+    "Sessions/Session 3.md",
+    "Sessions/Sessions.md",
     "js/mathjax.js",
     "js/New Text Document.txt",
     "js",
@@ -171,7 +187,6 @@
     "Money/Money.md",
     "index.md",
     "Villages/Villages.md",
-    "Sessions/Sessions.md",
     "Quests/Quests.md",
     "Locations/Locations.md",
     "Creatures/Creatures.md",
@@ -208,7 +223,6 @@
     "Icewind Dale/Quests",
     "Icewind Dale/Money",
     "Icewind Dale/Locations",
-    "Icewind Dale/Creatures",
-    "Icewind Dale/Characters"
+    "Icewind Dale/Creatures"
   ]
 }
