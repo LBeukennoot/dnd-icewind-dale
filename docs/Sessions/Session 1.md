@@ -3,7 +3,7 @@
 
 3 moorden (via [[Hlin Trolbane]] in [[Northlook]]):
 
-[Hlin Trolbane](Hlin%20Trolbane)
+[Hlin Trolbane](Hlin%20Trolbane.md)
 
 - Halfling
 - Schepenbouwer
