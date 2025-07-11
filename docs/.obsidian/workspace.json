@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Sessions/Sessions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Sessions"
             }
           }
         ]
@@ -177,6 +177,20 @@
   },
   "active": "e887707d97519074",
   "lastOpenFiles": [
+    "Quests/Quests.md",
+    "Villages/Villages.md",
+    "Villages/Termalaine ❄️.md",
+    "Villages/Targos ❄️.md",
+    "Villages/Lonelywood ❄️.md",
+    "Characters/Cevic Cautrum.md",
+    "Villages/Good Mead.md",
+    "Villages/Easthaven ❄️.md",
+    "Villages/Dougan's Hole.md",
+    "Villages/Caer-Konig ❄️.md",
+    "Villages/Caer-Denival ❄️.md",
+    "Villages/Bremen ❄️.md",
+    "Villages/Bryn Shander ❄️.md",
+    "Home.md",
     "Quests/Archin Brotherhood is slecht!.md",
     "Quests/Beesten in mines.md",
     "Quests/Chingra's vangen.md",
@@ -189,20 +203,6 @@
     "Quests/Monster in meer van Bremen.md",
     "Quests/Piratenschip bij bremen.md",
     "Quests/Ruzie tussen goliaths.md",
-    "Quests/Spoken bij Black Cabin.md",
-    "Quests/Verbrandde magiër in Easthaven.md",
-    "Quests/Vermiste zoon uit Bremen.md",
-    "Quests/Vermisten op Kelvin's Cairn.md",
-    "Quests/Visser is weg.md",
-    "Quests/Witte eland eet jagers.md",
-    "Villages/Villages.md",
-    "Villages/Termalaine ❄️.md",
-    "Villages/Targos ❄️.md",
-    "Villages/Good Mead.md",
-    "Villages/Lonelywood ❄️.md",
-    "Villages/Easthaven ❄️.md",
-    "Villages/Dougan's Hole.md",
-    "Villages/Caer-Konig ❄️.md",
     "images/creatures.png",
     "images/villages.png",
     "images",
