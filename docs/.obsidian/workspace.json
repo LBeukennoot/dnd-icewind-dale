@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Sessions.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sessions"
+              "title": "Session 1"
             }
           }
         ]
@@ -177,6 +177,9 @@
   },
   "active": "e887707d97519074",
   "lastOpenFiles": [
+    "Locations/Northlook.md",
+    "Sessions/Session 1.md",
+    "Sessions/Sessions.md",
     "Quests/Quests.md",
     "Villages/Villages.md",
     "Villages/Termalaine ❄️.md",
@@ -200,9 +203,6 @@
     "Quests/Kranok is ziek.md",
     "Quests/Leider vermoord.md",
     "Quests/Minder dwergen.md",
-    "Quests/Monster in meer van Bremen.md",
-    "Quests/Piratenschip bij bremen.md",
-    "Quests/Ruzie tussen goliaths.md",
     "images/creatures.png",
     "images/villages.png",
     "images",
