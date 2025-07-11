@@ -11,24 +11,12 @@
             "id": "e887707d97519074",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "images/creatures.png"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-image",
+              "title": "creatures"
             }
           }
         ]
@@ -177,14 +165,15 @@
   },
   "active": "dbd7a7486fc7619d",
   "lastOpenFiles": [
-    "locations.png",
-    "creatures.png",
-    "icewind_dale.png",
+    "images/villages.png",
     "Home.md",
-    "quests.png",
-    "villages.png",
-    "characters.png",
-    "session_notes.png",
+    "images",
+    "images/locations.png",
+    "images/creatures.png",
+    "images/icewind_dale.png",
+    "images/quests.png",
+    "images/characters.png",
+    "images/session_notes.png",
     "Pasted image 20250711163458.png",
     "Pasted image 20250711163454.png",
     "Sessions/Session 7.md",
@@ -217,12 +206,10 @@
     "Icewind Dale/Characters/Drawr Poof (Lars).md",
     "Icewind Dale/Characters/Althea Sardothien (Sara).md",
     "Icewind Dale/Sessions/Routes/Route session1.png",
-    "Icewind Dale/Sessions/Routes/Map.png",
     "Untitled.canvas",
     "Icewind Dale/Sessions/Routes",
     "Icewind Dale/Quests",
     "Icewind Dale/Money",
-    "Icewind Dale/Locations",
-    "Icewind Dale/Creatures"
+    "Icewind Dale/Locations"
   ]
 }
