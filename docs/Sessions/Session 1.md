@@ -1,5 +1,5 @@
 ![[Route session1.png]]
-Dag 1
+## Dag 1
 
 3 moorden (via [[Hlin Trolbane]] in [[Northlook]]):
 
@@ -69,7 +69,7 @@ NACHT NACHT NACHT NACHT NACHT NACHT NACHT
 
 ---
 
-Dag 2
+## Dag 2
 
 [[Targos ❄️]] → eet vis, meer is bevroren door de vloek
 
@@ -102,16 +102,16 @@ huizen zijn via ondergrondse gangen verbonden
 vader is visser → nu ziek dus [[Martha Peschkliek]] helpt
 
 !!! question "[[Beesten in mines]]"
-> 	[[Gem mine]] is geplaagd door beesten -> underdark
-> 	50 goud als reward
+	[[Gem mine]] is geplaagd door beesten -> underdark
+	50 goud als reward
 
 !!! question "[[Leider vermoord]]"
-> 	Een leider is vermoord door 9m grote reus
-> 	Honingmede is gestolen uit [[Good Mead]]
+	Een leider is vermoord door 9m grote reus
+	Honingmede is gestolen uit [[Good Mead]]
 
 !!! question "[[Kranok is ziek]]"
-> 	Dorpsspreker [[Kranok]] is ziek en daarom lang niet gezien
-> 	bevindt zich in kasteel van [[Caer-Denival ❄️]]: [[The Caer]]
+	Dorpsspreker [[Kranok]] is ziek en daarom lang niet gezien
+	bevindt zich in kasteel van [[Caer-Denival ❄️]]: [[The Caer]]
 
 krantenjongen verwijst ons naar [[Blue Clam]]
 
@@ -135,9 +135,9 @@ mijn is belangrijk economisch punt voor het dorp
 
 ---
 
-> [[Hulp met vandalen in Caer-Konig]]
-> [[Caer-Konig ❄️]] heeft vandalen en dieven
-> Dorpsspreker kan hulp gebruiken
+!!! question "[[Hulp met vandalen in Caer-Konig]]"
+	[[Caer-Konig ❄️]] heeft vandalen en dieven
+	Dorpsspreker kan hulp gebruiken
 
 ---
 
@@ -151,7 +151,7 @@ NACHT NACHT NACHT NACHT NACHT NACHT NACHT
 
 ---
 
-Dag 3
+## Dag 3
 
 we gaan naar de mijn toe: ingang is een levenloze omgeving
 

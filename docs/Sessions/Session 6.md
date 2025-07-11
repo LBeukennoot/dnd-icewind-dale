@@ -1,6 +1,6 @@
 ![[Route session6.png]]
 
-(nogsteeds) dag 20
+## Dag 20 (nogsteeds)
 
 we zijn nogsteeds op het [[Island of Solstice]]
 vorige sessie ([[Session 5]]) doen we de deur open en zien we een bewaker staan

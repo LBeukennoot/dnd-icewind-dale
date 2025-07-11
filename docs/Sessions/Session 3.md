@@ -1,6 +1,6 @@
 ![[Route session3.png]]
 
-(nogsteeds) Dag 7
+## Dag 7 (nogsteeds)
 
 We bevinden ons nog bij de [[Elven Tombe]], hebben in de vorige sessie de [[White moose]] verslagen. [[Drawr Poof (Lars)]] doet detect magic en merkt dat er nog magie in de buurt is, komt uit de grotten in de berg. Daar gaan we naartoe en zien een spiegel staan. Links en rechts zijn gangen, magie komt van rechts en die gang gaan we in.
 
@@ -22,11 +22,11 @@ Na dit geheel gaan we terug naar [[Nincy Huddle]] en updaten we haar van wat er 
 
 [[Skog Traustur (Jesse)]] gaat in [[Lonelywood ❄️]] nog opzoek naar [[Danika Graysteel]] om meer te weten te komen over de [[Chingra]]’s. Kan haar helaas niet vinden. Wel deze quests:
 
-> [[Dwergen zijn wat kwijt]]
-> In [[Bryn Shander ❄️]], Dwergen die goed betalen voor het vinden van hun verloren lading
+!!! question "[[Dwergen zijn wat kwijt]]"
+	In [[Bryn Shander ❄️]], Dwergen die goed betalen voor het vinden van hun verloren lading
 
-> [[Vermisten op Kelvin's Cairn]]
-> In [[Targos ❄️]], Avonturiers die op expeditie gaan naar [[Kelvin's Cairn]], op zoek naar een Goliath lycantrope (kan veranderen in een ijsbeer)
+!!! question "[[Vermisten op Kelvin's Cairn]]"
+	In [[Targos ❄️]], Avonturiers die op expeditie gaan naar [[Kelvin's Cairn]], op zoek naar een Goliath lycantrope (kan veranderen in een ijsbeer)
 
 ---
 
@@ -34,23 +34,23 @@ Nacht Nacht Nacht Nacht Nacht Nacht Nacht Nacht
 
 ---
 
-Dag 8
+## Dag 8
 
 We beginnen met onze reis richting [[Bryn Shander ❄️]], tijdens de reis krijgen we weer een aantal nieuwe quests:
 
-> [[Visser is weg]]
-> [[Nabina Moarskull]], is een visser in [[Easthaven ❄️]]. Heeft een magische vishaak om magische vissen te vangen maar is aangevallen door Grolls (wolfmens) en hebben haar vermoord en de vishengel gestolen. Jagers hebben hun geprobeerd te achtervolgen maar staakten hun zoektocht bij een grote scheur in de grond.
+!!! question "[[Visser is weg]]"
+	[[Nabina Moarskull]], is een visser in [[Easthaven ❄️]]. Heeft een magische vishaak om magische vissen te vangen maar is aangevallen door Grolls (wolfmens) en hebben haar vermoord en de vishengel gestolen. Jagers hebben hun geprobeerd te achtervolgen maar staakten hun zoektocht bij een grote scheur in de grond.
 
-> [[Piratenschip bij bremen]]
-> Bij [[Bremen ❄️]] en dan naar het noorden is een piratenschip vastgevroren. Niemand weet waar het vandaan komt, maar weten wel dat het voorlopig nergens heen gaat en vol met schatten zit.
+!!! question "[[Piratenschip bij bremen]]"
+	Bij [[Bremen ❄️]] en dan naar het noorden is een piratenschip vastgevroren. Niemand weet waar het vandaan komt, maar weten wel dat het voorlopig nergens heen gaat en vol met schatten zit.
 
-> [[Reged Nomad]] zijn dé personen om verstopte dingen in Icewind Dale te vinden. Ze kennen het gebied heel goed. Is wel heel lastig deze mensen te vinden, enige wat bekend is dat ze de [[Rendier kudde]] volgen.
+[[Reged Nomad]] zijn dé personen om verstopte dingen in Icewind Dale te vinden. Ze kennen het gebied heel goed. Is wel heel lastig deze mensen te vinden, enige wat bekend is dat ze de [[Rendier kudde]] volgen.
 
-> [[Archin Brotherhood is slecht!]]
-> “Deze winter komt niet door de auriel, maar door de Archin Brotherhood die de 10 towns willen overnemen! [[Vaelish Gant]] is verantwoordelijk, zit momenteel gevangen in Revils End, maar is daardoor niet minder gevaarlijk!”
+!!! question "[[Archin Brotherhood is slecht!]]"
+	“Deze winter komt niet door de auriel, maar door de Archin Brotherhood die de 10 towns willen overnemen! [[Vaelish Gant]] is verantwoordelijk, zit momenteel gevangen in Revils End, maar is daardoor niet minder gevaarlijk!”
 
-> [[Ruzie tussen goliaths]]
-> Weinig goliaths meer. Dat kan veranderen als de ruzie tussen de 2 goliath clans opgelost wordt. Is te vinden in The [[Spine of the World]].
+!!! question "[[Ruzie tussen goliaths]]"
+	Weinig goliaths meer. Dat kan veranderen als de ruzie tussen de 2 goliath clans opgelost wordt. Is te vinden in The [[Spine of the World]].
 
 Deze quests krijgen we omdat onze reputation beter wordt door de goede daden die we hebben gedaan.
 
@@ -68,7 +68,7 @@ Nacht Nacht Nacht Nacht Nacht
 
 ---
 
-Dag 9
+## Dag 9
 
 Verder reizen naar [[Bryn Shander ❄️]], daar kwamen we [[Hlin Trolbane]] weer tegen in [[Northlook]]. Ze stelt veel vragen en wij antwoorden. Ze gelooft ons en geeft onze reward, maar zal snel genoeg merken of de moorden nu gestopt zijn. Geeft ook aan dat we moeten oppassen voor torga.
 
@@ -94,7 +94,7 @@ Nacht Nacht Nacht Nacht Nacht
 
 ---
 
-Dag 10
+## Dag 10
 
 [[Skog Traustur (Jesse)]] wordt wakker met Inspiration, de rest heeft het gevoel dat ze snachts bekeken werden.
 

@@ -2,54 +2,42 @@
 Refer to the following subjects
 
 
-
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-note-sticky: __Sessions__
+-   :fontawesome-solid-note-sticky:{ .lg .middle } __Sessions__
 
     ---
 
-    Notities van de afgelopen sessies
+    De beschrijvingen van de gebeurtenissen tijdens de campaign, verdeeld in individuele sessies.
 
-    [:octicons-arrow-right-24: Ga naar sessies](#)
+    [:octicons-arrow-right-24: Sessies](Sessions)
 
--   :fontawesome-solid-note-sticky:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :open_book:{ .lg .middle } __Made to measure__
+-   :fontawesome-solid-people-group:{ .lg .middle } __Characters__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Alle karakters die we hebben ontmoet, hebben gesproken of over hebben gehoord, maar ook beschreven waar ze vandaan komen.
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Characters](Characters)
 
--   :octicons-repo:{ .lg .middle } __Open Source, MIT__
+-   :fontawesome-solid-circle-question:{ .lg .middle } __Quests__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Opdrachten die door de karakters zijn benoemd die we kunnen uitvoeren binnen Icewind Dale.
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: Quests](Quests)
+
+-   :fontawesome-solid-tree-city:{ .lg .middle } __Villages__
+
+    ---
+
+    De dorpjes van Icewind Dale. De namen waar een ijs icoontje achter staan zijn de dorpjes die we al eens hebben bezocht.
+
+    [:octicons-arrow-right-24: Villages](Villages)
 
 </div>
 
-
-
-
-
-| [[Sessions]]   |
-| -------------- |
-| [[Characters]] |
-| [[Locations]]  |
-| [[Quests]]     |
-| [[Villages]]   |
-| [[Money]]      |
-
+[[Money]]
 
 

@@ -1,6 +1,6 @@
 ![[Route session2.png]]
 
-Dag 4
+## Dag 4
 
 Beginnend in [[Termalaine ❄️]] (we hebben een longrest gehad dus zijn weer helemaal 100%)
 
@@ -16,7 +16,7 @@ Na een typische dag vissen komen mensen bij [[Blue Clam]] iets drinken. [[Vernon
 
 
 !!! question "[[Kranok is ziek]]"
-> 	In [[Caer-Denival ❄️]] hebben ze al een tijdje de dorpsspreker niet gezien. [[Kranok]] is ziek geworden. Synistere figuren komen steeds in en uit (de side quest die we eerder ook gehoord hebben toevallig)
+	In [[Caer-Denival ❄️]] hebben ze al een tijdje de dorpsspreker niet gezien. [[Kranok]] is ziek geworden. Synistere figuren komen steeds in en uit (de side quest die we eerder ook gehoord hebben toevallig)
 
 
 We gaan nu naar [[Eastside]], daar komen we weer [[Martha Peschkliek]] tegen.
@@ -25,8 +25,8 @@ Om de godin gerust te stellen hebben alle dorpen ene groot ritueel, de grotere o
 
 
 
-> [[Witte eland eet jagers]]
-> we krijgen nieuwe rumor: in [[Lonelywood ❄️]] is een gevaarlijke [[White moose]] gespot, valt jagers aan. Andere jagers hebben geen kans om m uit te schakelen.
+!!! question "[[Witte eland eet jagers]]"
+	we krijgen nieuwe rumor: in [[Lonelywood ❄️]] is een gevaarlijke [[White moose]] gespot, valt jagers aan. Andere jagers hebben geen kans om m uit te schakelen.
 
 
 Town speaker is blij met onze actie bij de mijn: kobolden luisteren goed.
@@ -49,7 +49,7 @@ NACHT NACHT NACHT NACHT NACHT NACHT
 
 ---
 
-Dag 5
+## Dag 5
 
 We zijn van plan naar [[Lonelywood ❄️]] te gaan, maar sneeuwstorm.
 
@@ -95,8 +95,8 @@ We besluiten nog even de [[Karavaan]] te checken, het is inmiddels avond. Bij de
 
 
 
-> [[Chingra's vangen]]
-> Op de weg terug naar het huis van [[Nincy Huddle]] loopt [[Danika Graysteel]] naar ons toe, bevriest jesse even, maar blijkt een goed persoon te zijn: is een wetenschapper. Denkt dat de [[Chingra]]’s kunnen helpen om het klimaat te verbeteren en vraagt ons om er een aan dr aan te leveren. We krijgen een lantaarn om deze [[Chingra]]’s makkelijk te kunnen vinden.
+!!! question "[[Chingra's vangen]]"
+	Op de weg terug naar het huis van [[Nincy Huddle]] loopt [[Danika Graysteel]] naar ons toe, bevriest jesse even, maar blijkt een goed persoon te zijn: is een wetenschapper. Denkt dat de [[Chingra]]’s kunnen helpen om het klimaat te verbeteren en vraagt ons om er een aan dr aan te leveren. We krijgen een lantaarn om deze [[Chingra]]’s makkelijk te kunnen vinden.
 
 
 [[Althea Sardothien (Sara)]], [[Drawr Poof (Lars)]] en [[Skog Traustur (Jesse)]] gaan terug naar [[Nincy Huddle]] om daar te rusten. [[Elena Footshadow (Lies)]] gaat opzoek naar [[Cevic Cautrum]] (terwijl het nacht is) en vind m dronken op straat zitten. Bindt m vast, verstopt m in de houtopslag [[Ramshackle]] en haalt de rest erbij. We ondervragen m maar wilt niets loslaten. Verteld wel dat hij is opgegroeid in een dorp/gebied genaamd ‘[[Midwinter]]’. Heeft de auriel-blessing waardoor ie het nooit koud krijgt, krijgt zelfs extra health als de temperatuur onder 0 graden is. (de godin die het gebied ijzig heeft gemaakt heet ook [[Auriel]]!!)
@@ -109,7 +109,7 @@ Na een gevecht hebben we [[Cevic Cautrum]] vermoord ☹️ We begraven m, maar k
 NACHT NACHT NACHT NACHT NACHT NACHT
 
 ---
-Dag 6
+## Dag 6
 
 LONG REST
 
@@ -117,7 +117,7 @@ LONG REST
 NACHT NACHT NACHT NACHT NACHT NACHT
 
 ---
-Dag 7
+## Dag 7
 
 Na een long rest gaan we weer het bos in. We komen weer de [[Chingra]]’s tegen, ze lijken heel vriendelijk te zijn en zorgen zelfs voor een positieve charm. [[Skog Traustur (Jesse)]] is super slim en neemt ze op een vriendelijke manier mee. We geven er eentje aan de wetenschapper [[Danika Graysteel]], die is zo blij dat het op een vriendelijke manier ging dat we een extra 25 gold krijgen (totaal 50 [[Gold 19]] dus) inclusief de [[Chingra]] lantaarn.
 

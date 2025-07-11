@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session 7"
             }
           }
         ]
@@ -177,14 +177,18 @@
   },
   "active": "e887707d97519074",
   "lastOpenFiles": [
+    "Sessions/Session 6.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 4.md",
+    "Sessions/Session 3.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "index.md",
+    "Quests/Chingra's vangen.md",
     "Villages/Bremen ❄️.md",
     "Quests/Beesten in mines.md",
     "Characters/Hlin Trolbane.md",
     "Sessions/Sessions.md",
-    "Sessions/Session 3.md",
     "javascripts/mathjax.js",
     "js/New Text Document.txt",
     "javascripts",
@@ -204,11 +208,7 @@
     "Icewind Dale/Characters/Althea Sardothien (Sara).md",
     "Icewind Dale/Sessions/Session 3.md",
     "Icewind Dale/Sessions/Session 7.md",
-    "Icewind Dale/Sessions/Session 5.md",
     "Icewind Dale/Sessions/Routes/Route session1.png",
-    "Icewind Dale/Locations/Bell for Anjak.md",
-    "Icewind Dale/Creatures/Yeti (lvl 9).md",
-    "Icewind Dale/Creatures/Yeti (lvl 3).md",
     "Icewind Dale/Sessions/Routes/Map.png",
     "Icewind Dale/Sessions/Routes/Route session5.png",
     "Icewind Dale/Sessions/Routes/Route session6.png",

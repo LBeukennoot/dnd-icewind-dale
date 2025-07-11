@@ -1,6 +1,6 @@
 ![[Route session7.png]]
 
-(nogsteeds) dag 20
+## Dag 20 (nogsteeds)
 
 vorige sessie ([[Session 6]]) konden we ontsnappen van [[Auriel]]
 
@@ -16,53 +16,52 @@ we komen aan vanaf [[Island of Solstice]] bij de [[Bell for Anjak]], daar zien w
 
 [[Kora Mulphoon]] verteld dat [[Bremen ❄️]] een vissersdorpje is, er zijn 5 tavernes die met elkaar concurreren, er zijn er 5 omdat geen van de 5 voor een baas wilden werken.
 
-> [[Vermiste zoon uit Bremen]]
-> verder verteld [[Kora Mulphoon]] dat er interessante dingen gaande zijn. zoon van [[Kora Mulphoon]] is verdwenen nadat hij samen met een searchparty opzoek ging naar de dorpsspreker ([[Salazar]]) van bremen. [[Salazar]] is gevonden, maar de searchparty is niet meer terug gekomen. [[Salazar]] was een beetje gemeen tegen [[Kora Mulphoon]].
-> 
-> In de kamer van de zoon lag een groot ijsstuk. de zoon wilde nooit meer terugkomen volgens thieflings die langs kamen. de thieflings hebben toen het ijsstuk meegenomen (thieflings hadden zelf bedeltjes om hun nek waar dat ijsstuk in stond). de zoon vertelde iets over een kasteel (er zijn maar 2 kastelen waarvan eentje is vervallen en de andere [[The Caer]] is)
+!!! question "[[Vermiste zoon uit Bremen]]"
+	verder verteld [[Kora Mulphoon]] dat er interessante dingen gaande zijn. zoon van [[Kora Mulphoon]] is verdwenen nadat hij samen met een searchparty opzoek ging naar de dorpsspreker ([[Salazar]]) van bremen. [[Salazar]] is gevonden, maar de searchparty is niet meer terug gekomen. [[Salazar]] was een beetje gemeen tegen [[Kora Mulphoon]].
+	In de kamer van de zoon lag een groot ijsstuk. de zoon wilde nooit meer terugkomen volgens thieflings die langs kamen. de thieflings hebben toen het ijsstuk meegenomen (thieflings hadden zelf bedeltjes om hun nek waar dat ijsstuk in stond). de zoon vertelde iets over een kasteel (er zijn maar 2 kastelen waarvan eentje is vervallen en de andere [[The Caer]] is)
 
 Nadat we met [[Kora Mulphoon]] hebben gesproken gaan we naar de 5 tavernes ([[Tavern Center]]) in het dorpje
 
-> [[Althea Sardothien (Sara)]] gaat naar [[Even Kiel]] (een van de 5 tavernes) en is vrij slecht onderhouden, maar er zitten alsnog mensen. [[Althea Sardothien (Sara)]] gaat praten met de eerste, maar praat mockingly over het verhaal van ons over dat we naar het eiland van de [[Auriel]] zijn gegaan.
-> > [[Monster in meer van Bremen]]
-> > een ander persoon verteld over een monster in [[Bremen ❄️]] die de vissers aanvalt. andere dorpen hebben geen last van het monster.
+[[Althea Sardothien (Sara)]] gaat naar [[Even Kiel]] (een van de 5 tavernes) en is vrij slecht onderhouden, maar er zitten alsnog mensen. [[Althea Sardothien (Sara)]] gaat praten met de eerste, maar praat mockingly over het verhaal van ons over dat we naar het eiland van de [[Auriel]] zijn gegaan.
+!!! question "[[Monster in meer van Bremen]]"
+	een ander persoon verteld over een monster in [[Bremen ❄️]] die de vissers aanvalt. andere dorpen hebben geen last van het monster.
 
-> [[Elena Footshadow (Lies)]] gaat naar [[Rivers Mouth]], is een beetje een vervallen taverne.
-> > [[Monster in meer van Bremen]]
-> > wordt verteld over een monster in het meer van [[Bremen ❄️]] (zelfde verhaal)
-> 
-> [[Elena Footshadow (Lies)]] haalt dan een biertje en een sheppard's pie
-> > [[Archin Brotherhood is slecht!]]
-> > ander persoon verteld dat de vloek niet komt door de ice maiden ([[Auriel]]) maar door de archin brotherhood. je kan de groep aanvoelen, want zijn magiërs. laatst is een van de groep verbrand ([[Verbrandde magiër in Easthaven]]) en een andere zit vast in de gevangenis ([[Gevangene van Revil's End]]). Ze laten nooit sporen achter, hebben iets gedaan in de buurt van een kasteel.
+[[Elena Footshadow (Lies)]] gaat naar [[Rivers Mouth]], is een beetje een vervallen taverne.
+!!! question "[[Monster in meer van Bremen]]"
+	wordt verteld over een monster in het meer van [[Bremen ❄️]] (zelfde verhaal)
 
-> [[Drawr Poof (Lars)]] gaat naar [[Black Beared Brother]], is vrij slecht onderhouden
-> -4 [[Copper 489]] voor bier
-> nadat [[Drawr Poof (Lars)]] verteld dat die groep die naar de [[Auriel]] gingen (wij) levend terug zijn gekomen, verteld iemand anders iets:
-> > [[Spoken bij Black Cabin]]
-> > er is ergens een [[Black Cabin]], staat er al eeuwen maar het spookt er. Gnome van [[Bryn Shander ❄️]] ([[Copper]], is te vinden bij [[House of Morninglord]]) zegt dat er experimenten gaande zijn.
+[[Elena Footshadow (Lies)]] haalt dan een biertje en een sheppard's pie
+!!! question "[[Archin Brotherhood is slecht!]]"
+	ander persoon verteld dat de vloek niet komt door de ice maiden ([[Auriel]]) maar door de archin brotherhood. je kan de groep aanvoelen, want zijn magiërs. laatst is een van de groep verbrand ([[Verbrandde magiër in Easthaven]]) en een andere zit vast in de gevangenis ([[Gevangene van Revil's End]]). Ze laten nooit sporen achter, hebben iets gedaan in de buurt van een kasteel.
 
-> [[Skog Traustur (Jesse)]] gaat naar [[Rolling Stones]], is een beetje shitty vanbinnen. [[Skog Traustur (Jesse)]] geeft een groepje van 6 eten en drinken en beginnen te vertellen
-> > [[Gevangene van Revil's End]]
-> > In [[Bryn Shander ❄️]] maakt de townspeaker ([[Dufesa Shane]]) zich zorgen om de roddels over de archin brotherhood. gast in de gevangenis ([[Revil's End]]) heeft meer info, reward is 250 gold. de gevangenis is te vinden bij de [[Sea of Moving Ice]].
+[[Drawr Poof (Lars)]] gaat naar [[Black Beared Brother]], is vrij slecht onderhouden
+-4 [[Copper 489]] voor bier
+nadat [[Drawr Poof (Lars)]] verteld dat die groep die naar de [[Auriel]] gingen (wij) levend terug zijn gekomen, verteld iemand anders iets:
+!!! question "[[Spoken bij Black Cabin]]"
+	er is ergens een [[Black Cabin]], staat er al eeuwen maar het spookt er. Gnome van [[Bryn Shander ❄️]] ([[Copper]], is te vinden bij [[House of Morninglord]]) zegt dat er experimenten gaande zijn.
+
+[[Skog Traustur (Jesse)]] gaat naar [[Rolling Stones]], is een beetje shitty vanbinnen. [[Skog Traustur (Jesse)]] geeft een groepje van 6 eten en drinken en beginnen te vertellen
+!!! question "[[Gevangene van Revil's End]]"
+	In [[Bryn Shander ❄️]] maakt de townspeaker ([[Dufesa Shane]]) zich zorgen om de roddels over de archin brotherhood. gast in de gevangenis ([[Revil's End]]) heeft meer info, reward is 250 gold. de gevangenis is te vinden bij de [[Sea of Moving Ice]].
 
 [[Zanar]] gaat de laatste taverne in, [[The Grumpy Moose]], maar wordt door de barman weggestuurd: 'wij helpen geen undead!!!'
 
-> [[Hulp met vandalen in Caer-Konig]]
-> In [[Caer-Konig ❄️]] verdwijnen er dingen, townspeaker kan wel wat hulp gebruiken
+!!! question "[[Hulp met vandalen in Caer-Konig]]"
+	In [[Caer-Konig ❄️]] verdwijnen er dingen, townspeaker kan wel wat hulp gebruiken
 
 
 ---
 nacht
 
 ---
-dag 21
+## Dag 21
 long rest!
 
 ---
 nacht
 
 ---
-dag 22
+## Dag 22
 
 we gaan naar de townspeaker van [[Bremen ❄️]] ([[Salazar]]), is een super super oude dwerg, wist niet meer hoe die in de sneeuwstorm terecht is gekomen, na detect thoughts blijkt dat hij heel veel gaten in zijn geheugen heeft.
 

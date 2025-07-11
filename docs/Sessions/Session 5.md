@@ -1,6 +1,6 @@
 ![[Route session5.png]]
 
-(nogsteeds) dag 11
+## Dag 11 (nogsteeds)
 vandaag doet [[Nãowynn Bluewhisper (Eline)]] mee
 
 Vorige sessie [[Yeti (lvl 9)]] verslagen op de [[Kelvin's Cairn]].
@@ -18,33 +18,33 @@ naar basecamp, naar [[Targos ❄️]]
 nacht
 
 ---
-dag 12
+## Dag 12
 long rest!
 
 ---
 nacht
 
 ---
-dag 13
+## Dag 13
 [[Drawr Poof (Lars)]] doet een goed dansje
 gaan naar [[Three Flags Sailing]] (herberg), daar werkt Ethan (vrouwenmens)
 
-> [[Monster in meer van Bremen]]
-> In [[Bremen ❄️]] worden vissers geterroriseerd door monster in [[Maer Dauldon]]
+!!! question "[[Monster in meer van Bremen]]"
+	In [[Bremen ❄️]] worden vissers geterroriseerd door monster in [[Maer Dauldon]]
 
 Frost maiden ([[Auriel]]) leeft op eiland in [[Sea of Moving Ice]] en walvis ([[Anjak]]) kan je daar naartoe brengen, door [[Bell for Anjak]] te luiden ten noord-westen van [[Targos ❄️]]
 
-> [[Monster in meer van Bremen]]
-> In [[Bremen ❄️]] zit een monster die boten kaapt
+!!! question "[[Monster in meer van Bremen]]"
+	In [[Bremen ❄️]] zit een monster die boten kaapt
 
-> [[Piratenschip bij bremen]]
-> Naar noord-westen van [[Bremen ❄️]] zit een piratenschip
+!!! question "[[Piratenschip bij bremen]]"
+	Naar noord-westen van [[Bremen ❄️]] zit een piratenschip
 
-> [[Verbrandde magiër in Easthaven]]
-> In [[Easthaven ❄️]] is een slechte magiër vastgebonden en in de fik gestoken. 10 towners ingehuurd en vermoord voor geheime vegraven toren van [[Nethegail]]. De top van de toren is te zien ten oosten van [[Kelvin's Cairn]]
+!!! question "[[Verbrandde magiër in Easthaven]]"
+	In [[Easthaven ❄️]] is een slechte magiër vastgebonden en in de fik gestoken. 10 towners ingehuurd en vermoord voor geheime vegraven toren van [[Nethegail]]. De top van de toren is te zien ten oosten van [[Kelvin's Cairn]]
 
-> [[Archin Brotherhood is slecht!]]
-> Magiërs zijn iets, archin brotherhood zijn het probleem. [[Vaelish Gant]] (zit in de gevangenis bij [[Revil's End]]) ipv de godin, die is er namelijk al decennia lang!
+!!! question "[[Archin Brotherhood is slecht!]]"
+	Magiërs zijn iets, archin brotherhood zijn het probleem. [[Vaelish Gant]] (zit in de gevangenis bij [[Revil's End]]) ipv de godin, die is er namelijk al decennia lang!
 
 We gaan naar [[Gereth Velrim]] voor meer info over de gastvrijheid
 
@@ -52,7 +52,7 @@ We gaan naar [[Gereth Velrim]] voor meer info over de gastvrijheid
 nacht
 
 ---
-dag 14
+## Dag 14
 
 tent, kleding, eten, warmte creatie, [[Gereth Velrim]] helpt ons
 
@@ -67,7 +67,7 @@ er komt een sneeuwstorm en gaan ons kamp opzetten
 nacht
 
 ---
-dag 15
+## Dag 15
 
 [[Drawr Poof (Lars)]] gaat omgeving verkennen maar komt niet meer terug want is de weg kwijt, zit tegen een steen om te overleven. zodra de storm voorbij is zit [[Drawr Poof (Lars)]] niet tegen een steen maar tegen zo'n random stoel met een skelet erop. na poging om te looten zit er blijkbaar een draak onder, helpt [[Drawr Poof (Lars)]] terug naar de groep te gaan en laat m verder met rust
 
@@ -77,7 +77,7 @@ we lopen verder en zien dwergen, zijn een beetje grumpy en doen we verder niet z
 nacht
 
 ---
-dag 16
+## Dag 16
 
 s' nachts gebeurt er niets dus gaan we weer verder
 
@@ -91,7 +91,7 @@ na het bellen komt er een walvis tevoorschijn, hij heet [[Anjak]] en is de walvi
 nacht (3x)
 
 ---
-dag 19
+## Dag 19
 
 na vissen hebben we 3 inktvissen gevangen, nu luiden we [[Bell for Anjak]] weer en gaan we mee met de [[Anjak]]
 
@@ -108,7 +108,7 @@ vlak voordat de zon onder gaat zien we de [[Auriel]] vanuit het kasteel ([[Grims
 nacht
 
 ---
-dag 20
+## Dag 20
 
 rond schemering in de ochtend zien we dat de [[Auriel]] weer terug het kasteel in vliegt.
 

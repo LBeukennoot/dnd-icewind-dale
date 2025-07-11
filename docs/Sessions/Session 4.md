@@ -2,7 +2,7 @@
 
 # Sessie 4
 
-Dag 10
+## Dag 10
 
 Vorige sessie zijn we wakker geworden in [[Deniv's Rest]] met een gevoel alsof we bekeken werden (Behalve [[Skog Traustur (Jesse)]] want die sliep in de Watchtower)
 
@@ -18,8 +18,8 @@ Half elf is [[Egglander Cor]] en is de bartender. Er staan al halve glazen bier 
 
 Lopen naar [[Frozenfar Expeditions]]. Grote schuur, verkoper is een mensenmens zegt dat de avonturiers (waar we naar opzoek zijn) 2 dagen eerder hier ook zijn geweest om spullen te kopen. We hebben al best wel goede kleding maar hebben nog wat meer nodig als we berg willen beklimmen.
 
-> [[Minder dwergen]]
-> [[Dwarven's valley]] → er zijn niet zo veel dwergen meer (zegt een van de 2 verkopers)
+!!! question "[[Minder dwergen]]"
+	[[Dwarven's valley]] → er zijn niet zo veel dwergen meer (zegt een van de 2 verkopers)
 
 pp -5 [[Gold 19]] voor klimspullen (20 gp in totaal)
 
@@ -35,7 +35,7 @@ nacht nacht nacht nacht nacht nacht nacht
 
 ---
 
-Dag 11
+## Dag 11
 
 We komen aan bij de voet van [[Kelvin's Cairn]] en zien een omgekeerde slee met 5 honden en tenten. Dit is de basecamp van de avonturiers. Een van de avonturiers is een goliath en is helaas vermoord door de [[Yeti (lvl 9)]]. Na animal handling van Lies gaan de honden met ons mee de berg beklimmen.
 
