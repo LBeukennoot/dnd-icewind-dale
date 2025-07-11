@@ -87,18 +87,12 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - autorefs:
-      resolve_closest: true
-  # - pub-obsidian:
-  #     obsidian_dir: .obsidian
-  #     backlinks:
-  #       enabled: true
-  # - backlinks_section:
-  #     add_to_toc: false
-  #     hide_if_empty: false
-  #     title: "Links mentioned"
-  #     description: ""
-  #     description_no_links: "No links."
+  - backlinks_section:
+      add_to_toc: false
+      hide_if_empty: false
+      title: "Links mentioned"
+      description: ""
+      description_no_links: "No links."
   - search
   - roamlinks
   - blog

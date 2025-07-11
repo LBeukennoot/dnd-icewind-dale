@@ -18,7 +18,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-autorefs
       - run: pip install mkdocs-backlinks-section-plugin # https://github.com/six-two/mkdocs-backlinks-section-plugin/tree/main
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin

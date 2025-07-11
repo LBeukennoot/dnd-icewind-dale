@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Characters/Hlin Trolbane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Hlin Trolbane"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "e887707d97519074",
   "lastOpenFiles": [
-    "Characters/Hlin Trolbane.md",
     "Sessions/Session 1.md",
+    "Characters/Hlin Trolbane.md",
     "Hlin_Trolbane.md",
     "Hlin.md",
     "Sessions/Session 2.md",
