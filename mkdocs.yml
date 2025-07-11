@@ -88,6 +88,7 @@ markdown_extensions:
 
 plugins:
   - pub-obsidian:
+      obsidian_dir: .obsidian
       backlinks:
         enabled: true
       links:
