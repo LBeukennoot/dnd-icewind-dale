@@ -14,7 +14,7 @@ nav:
     - Session 6: Sessions/Session 6
     - Session 7: Sessions/Session 7
   - Villages:
-    - Bremen ❄: Villages/Bremen ❄
+    - Bremen ❄: Villages/Bremen ❄%EF%B8%8F/
     - Bryn Shander ❄: Villages/Bryn Shander ❄%EF%B8%8F/
     - Caer-Denival ❄: Villages/Caer-Denival ❄%EF%B8%8F/
     - Caer-Konig ❄: Villages/Caer-Konig ❄%EF%B8%8F/
@@ -89,7 +89,7 @@ markdown_extensions:
 plugins:
   - backlinks_section:
       add_to_toc: false
-      hide_if_empty: true
+      hide_if_empty: false
       title: "Links mentioned"
       description: ""
       description_no_links: "No links."

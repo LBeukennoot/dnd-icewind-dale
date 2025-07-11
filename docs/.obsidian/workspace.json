@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Archin Brotherhood is slecht!.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archin Brotherhood is slecht!"
+              "title": "Home"
             }
           }
         ]
@@ -175,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbd7a7486fc7619d",
+  "active": "e887707d97519074",
   "lastOpenFiles": [
+    "Quests/Archin Brotherhood is slecht!.md",
     "Quests/Beesten in mines.md",
     "Quests/Chingra's vangen.md",
     "Quests/Dwergen zijn wat kwijt.md",
@@ -194,7 +195,6 @@
     "Quests/Vermisten op Kelvin's Cairn.md",
     "Quests/Visser is weg.md",
     "Quests/Witte eland eet jagers.md",
-    "Quests/Archin Brotherhood is slecht!.md",
     "Villages/Villages.md",
     "Villages/Termalaine ❄️.md",
     "Villages/Targos ❄️.md",
