@@ -11,12 +11,24 @@
             "id": "e887707d97519074",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/creatures.png"
+                "file": "Villages/Villages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "creatures"
+              "icon": "lucide-file",
+              "title": "Villages"
             }
           }
         ]
@@ -163,13 +175,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbd7a7486fc7619d",
+  "active": "e887707d97519074",
   "lastOpenFiles": [
-    "images/villages.png",
+    "Villages/Termalaine ❄️.md",
+    "Villages/Targos ❄️.md",
+    "Villages/Good Mead.md",
+    "Villages/Lonelywood ❄️.md",
+    "Villages/Easthaven ❄️.md",
+    "Villages/Dougan's Hole.md",
+    "Villages/Caer-Konig ❄️.md",
+    "Villages/Caer-Denival ❄️.md",
+    "Villages/Bryn Shander ❄️.md",
+    "Villages/Bremen ❄️.md",
     "Home.md",
+    "Villages/Villages.md",
+    "images/creatures.png",
+    "images/villages.png",
     "images",
     "images/locations.png",
-    "images/creatures.png",
     "images/icewind_dale.png",
     "images/quests.png",
     "images/characters.png",
@@ -184,7 +207,6 @@
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "Quests/Chingra's vangen.md",
-    "Villages/Bremen ❄️.md",
     "Quests/Beesten in mines.md",
     "Characters/Hlin Trolbane.md",
     "Sessions/Sessions.md",
@@ -194,17 +216,8 @@
     "New folder",
     "New Text Document.txt",
     "Money/Money.md",
-    "Villages/Villages.md",
     "Quests/Quests.md",
     "Locations/Locations.md",
-    "Creatures/Creatures.md",
-    "Icewind Dale/Quests/Beesten in mines.md",
-    "Icewind Dale/Quests/Archin Brotherhood is slecht!.md",
-    "Icewind Dale/Characters/Skog Traustur (Jesse).md",
-    "Icewind Dale/Characters/Nãowynn Bluewhisper (Eline).md",
-    "Icewind Dale/Characters/Elena Footshadow (Lies).md",
-    "Icewind Dale/Characters/Drawr Poof (Lars).md",
-    "Icewind Dale/Characters/Althea Sardothien (Sara).md",
     "Icewind Dale/Sessions/Routes/Route session1.png",
     "Untitled.canvas",
     "Icewind Dale/Sessions/Routes",
