@@ -13,7 +13,7 @@ Refer to the following subjects
 
     [:octicons-arrow-right-24: Ga naar sessies](#)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-   :fontawesome-note:{ .lg .middle } __It's just Markdown__
 
     ---
 

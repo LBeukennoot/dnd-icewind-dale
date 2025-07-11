@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79e501f7b298a22e",
+        "id": "edad1d81e11d04b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d60c2fe1a4612f6a",
+            "id": "e887707d97519074",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,20 +175,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d60c2fe1a4612f6a",
+  "active": "e887707d97519074",
   "lastOpenFiles": [
+    "Villages/Bremen ❄️.md",
+    "index.md",
     "Sessions/Session 1.md",
     "Quests/Beesten in mines.md",
     "Characters/Hlin Trolbane.md",
     "Sessions/Sessions.md",
     "Sessions/Session 3.md",
-    "js/mathjax.js",
+    "javascripts/mathjax.js",
     "js/New Text Document.txt",
-    "js",
+    "javascripts",
     "New folder",
     "New Text Document.txt",
     "Money/Money.md",
-    "index.md",
     "Villages/Villages.md",
     "Quests/Quests.md",
     "Locations/Locations.md",
@@ -208,7 +209,6 @@
     "Icewind Dale/Creatures/Yeti (lvl 9).md",
     "Icewind Dale/Creatures/Yeti (lvl 3).md",
     "Icewind Dale/Creatures/White moose.md",
-    "Icewind Dale/Creatures/Vulture.md",
     "Icewind Dale/Sessions/Routes/Map.png",
     "Icewind Dale/Sessions/Routes/Route session5.png",
     "Icewind Dale/Sessions/Routes/Route session6.png",
