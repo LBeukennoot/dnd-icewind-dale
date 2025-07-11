@@ -101,6 +101,10 @@ huizen zijn via ondergrondse gangen verbonden
 
 vader is visser → nu ziek dus [[Martha Peschkliek]] helpt
 
+??? note "[[Beesten in mines]]"
+	[[Gem mine]] is geplaagd door beesten -> underdark
+	50 goud als reward
+
 > [[Beesten in mines]]
 > [[Gem mine]] is geplaagd door beesten -> underdark
 > 50 goud als reward

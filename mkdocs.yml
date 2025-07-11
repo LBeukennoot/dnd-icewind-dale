@@ -68,7 +68,7 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - mkdocs-backlinks
+  - backlinks_section
   - search
   - roamlinks
   - blog
