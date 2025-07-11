@@ -53,6 +53,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -68,7 +71,12 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - backlinks_section
+  - backlinks_section:
+    add_to_toc: false
+    hide_if_empty: true
+    title: "Links mentioned"
+    description: ""
+    description_no_links: "No links."
   - search
   - roamlinks
   - blog
