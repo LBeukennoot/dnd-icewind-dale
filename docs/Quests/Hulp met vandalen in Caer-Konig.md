@@ -1,3 +1,5 @@
+[[Quests]]
+
 Village:
 [[Caer-Konig ❄️]]
 
