@@ -4,7 +4,7 @@ repo_url: https://github.com/LBeukennoot/dnd-icewind-dale
 repo_name: LBeukennoot/dnd-icewind-dale
 
 nav:
-  - Home: index.md
+  - Home: Home.md
   - Sessions: 
     - Session 1: Sessions/Session 1
     - Session 2: Sessions/Session 2
@@ -41,6 +41,7 @@ theme:
     features:
       - navigation.path
       - navigation.sections
+      - toc.integrate
 
 # Extensions
 markdown_extensions:

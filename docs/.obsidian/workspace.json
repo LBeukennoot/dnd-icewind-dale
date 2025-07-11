@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 7.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 7"
+              "title": "Home"
             }
           }
         ]
@@ -175,15 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e887707d97519074",
+  "active": "dbd7a7486fc7619d",
   "lastOpenFiles": [
+    "quests.png",
+    "villages.png",
+    "characters.png",
+    "session_notes.png",
+    "Pasted image 20250711163458.png",
+    "Pasted image 20250711163454.png",
+    "icewind_dale.png",
+    "Sessions/Session 7.md",
     "Sessions/Session 6.md",
     "Sessions/Session 5.md",
     "Sessions/Session 4.md",
     "Sessions/Session 3.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
-    "index.md",
+    "Home.md",
     "Quests/Chingra's vangen.md",
     "Villages/Bremen ❄️.md",
     "Quests/Beesten in mines.md",
@@ -206,19 +214,11 @@
     "Icewind Dale/Characters/Elena Footshadow (Lies).md",
     "Icewind Dale/Characters/Drawr Poof (Lars).md",
     "Icewind Dale/Characters/Althea Sardothien (Sara).md",
-    "Icewind Dale/Sessions/Session 3.md",
-    "Icewind Dale/Sessions/Session 7.md",
     "Icewind Dale/Sessions/Routes/Route session1.png",
     "Icewind Dale/Sessions/Routes/Map.png",
     "Icewind Dale/Sessions/Routes/Route session5.png",
     "Icewind Dale/Sessions/Routes/Route session6.png",
-    "Icewind Dale/Sessions/Routes/Route session7.png",
-    "Pasted image 20250710001438.png",
-    "Icewind Dale/Sessions/Routes/Route session2.png",
     "Untitled.canvas",
-    "Icewind Dale/Sessions/Routes/Map grid.png",
-    "Icewind Dale/Sessions/Routes/Route session4.png",
-    "Icewind Dale/Sessions/Routes/Route session3.png",
     "Icewind Dale/Sessions/Routes",
     "Icewind Dale/Quests",
     "Icewind Dale/Money",
