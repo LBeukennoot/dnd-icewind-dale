@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "index"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "d60c2fe1a4612f6a",
   "lastOpenFiles": [
-    "Quests/Beesten in mines.md",
     "Sessions/Session 1.md",
+    "Quests/Beesten in mines.md",
     "Characters/Hlin Trolbane.md",
     "Sessions/Sessions.md",
     "Sessions/Session 3.md",

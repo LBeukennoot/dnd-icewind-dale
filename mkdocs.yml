@@ -44,7 +44,6 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
   - pymdownx.arithmatex:
       generic: true
   # - pymdownx.superfences
@@ -54,6 +53,8 @@ markdown_extensions:
       custom_checkbox: true
   - def_list
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.critic
