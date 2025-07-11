@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true
 }

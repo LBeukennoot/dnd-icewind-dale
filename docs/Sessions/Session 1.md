@@ -55,7 +55,7 @@ honden slee huren kan hier: 30 [[Gold 19]]
 
 of 3/4 uur lopen naar [[Targos ❄️]]
 
-of 7 uur lopen naar [termaline](https://www.notion.so/Termalaine-dca5a71b89254343b6f3f2df065ef085?pvs=21)
+of 7 uur lopen naar [[Termalaine ❄️]]
 
 week = 10 dagen
 

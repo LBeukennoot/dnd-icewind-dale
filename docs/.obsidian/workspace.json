@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Sessions/Session 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Session 2"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "e887707d97519074",
   "lastOpenFiles": [
-    "Locations/Northlook.md",
     "Sessions/Session 1.md",
+    "Locations/Northlook.md",
     "Sessions/Sessions.md",
     "Quests/Quests.md",
     "Villages/Villages.md",
