@@ -13,6 +13,17 @@ nav:
     - Session 5: Sessions/Session 5
     - Session 6: Sessions/Session 6
     - Session 7: Sessions/Session 7
+  - Villages:
+    - Bremen ❄: Villages/Bremen ❄
+    - Bryn Shander ❄: Villages/Bryn Shander ❄
+    - Caer-Denival ❄: Villages/Caer-Denival ❄
+    - Caer-Konig ❄: Villages/Caer-Konig ❄
+    - Dougan's Hole: Villages/Dougan's Hole
+    - Easthaven ❄: Villages/Easthaven ❄
+    - Good Mead ❄: Villages/Good Mead ❄
+    - Lonelywood ❄: Villages/Lonelywood ❄
+    - Targos ❄: Villages/Targos ❄
+    - Termalaine ❄: Villages/Termalaine ❄
 
 theme:
     name: 'material'
