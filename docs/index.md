@@ -58,3 +58,5 @@
     [:octicons-arrow-right-24: Locations](/dnd-icewind-dale/Locations/Locations)
 
 </div>
+
+![[icewind_dale_map.png]]

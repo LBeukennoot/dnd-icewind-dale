@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edad1d81e11d04b1",
+        "id": "82311cfb7e3ce1d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e887707d97519074",
+            "id": "efceef0a32923898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 7.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 7"
+              "title": "index"
             }
           }
         ]
@@ -175,8 +175,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e887707d97519074",
+  "active": "efceef0a32923898",
   "lastOpenFiles": [
+    "images/icewind_dale_map.png",
+    "images/icewind_dale_map_grid.png",
+    "images/villages/bremen_map.png",
+    "images/routes/route_session5.png",
+    "index.md",
+    "images/villages/caer-konig_map.png",
+    "images/villages/dougans_hole_map.png",
+    "images/villages/good_mead_map.png",
+    "images/villages/termalaine_map.png",
+    "images/villages/lonelywood_map.png",
+    "images/homepage/villages.png",
+    "images/homepage/characters.png",
+    "images/homepage",
+    "images/villages",
+    "Villages/Bremen ❄️.md",
+    "Villages/Bryn Shander ❄️.md",
+    "Villages/Caer-Denival ❄️.md",
+    "Villages/Caer-Konig ❄️.md",
+    "Villages/Dougan's Hole.md",
+    "Villages/Good Mead.md",
+    "Villages/Easthaven ❄️.md",
+    "Villages/Lonelywood ❄️.md",
+    "Villages/Termalaine ❄️.md",
+    "Villages/Targos ❄️.md",
+    "Villages/Villages.md",
+    "Sessions/Session 7.md",
     "Sessions/Session 6.md",
     "Sessions/Session 5.md",
     "Sessions/Session 4.md",
@@ -187,33 +213,9 @@
     "Quests/Vermiste zoon uit Bremen.md",
     "Locations/Midwinter.md",
     "Characters/Cevic Cautrum.md",
-    "Sessions/Routes/Map.png",
-    "images/icewind_dale.png",
-    "images/session_notes.png",
-    "index.md",
-    "Villages/Villages.md",
     "Characters/Hlin Trolbane.md",
     "Hlin_Trolbane.md",
-    "Hlin.md",
-    "Locations/Northlook.md",
-    "Sessions/Sessions.md",
-    "Villages/Termalaine ❄️.md",
-    "Villages/Targos ❄️.md",
-    "Villages/Lonelywood ❄️.md",
-    "Villages/Good Mead.md",
-    "Villages/Easthaven ❄️.md",
-    "Villages/Dougan's Hole.md",
-    "Villages/Caer-Konig ❄️.md",
-    "Villages/Caer-Denival ❄️.md",
-    "Villages/Bremen ❄️.md",
-    "images/creatures.png",
-    "images/villages.png",
     "images",
-    "images/locations.png",
-    "images/quests.png",
-    "images/characters.png",
-    "Pasted image 20250711163458.png",
-    "Pasted image 20250711163454.png",
     "javascripts/mathjax.js",
     "js/New Text Document.txt",
     "javascripts",
@@ -221,8 +223,6 @@
     "New Text Document.txt",
     "Untitled.canvas",
     "Icewind Dale/Sessions/Routes",
-    "Icewind Dale/Quests",
-    "Icewind Dale/Money",
-    "Icewind Dale/Locations"
+    "Icewind Dale/Quests"
   ]
 }

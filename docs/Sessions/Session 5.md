@@ -1,4 +1,4 @@
-![[Route session5.png]]
+![[route_session5.png]]
 
 ## Dag 11 (nogsteeds)
 vandaag doet [[Nãowynn Bluewhisper (Eline)]] mee

@@ -1,4 +1,4 @@
-![[Route session1.png]]
+![[route_session1.png]]
 ## Dag 1
 
 3 moorden (via [[Hlin Trolbane]] in [[Northlook]]):

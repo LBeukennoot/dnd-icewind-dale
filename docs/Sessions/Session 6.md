@@ -1,4 +1,4 @@
-![[Route session6.png]]
+![[route_session6.png]]
 
 ## Dag 20 (nogsteeds)
 

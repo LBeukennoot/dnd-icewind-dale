@@ -1,4 +1,4 @@
-![[Route session2.png]]
+![[route_session2.png]]
 
 ## Dag 4
 
