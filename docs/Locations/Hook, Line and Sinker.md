@@ -1,7 +1,7 @@
 ---
 Type: Herberg
 ---
-herberg in [[Caer-Konig ❄️]]
+taverne in [[Caer-Konig ❄️]]
 
 wordt gerund door [[Egglander Cor]]
 

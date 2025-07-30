@@ -4,7 +4,7 @@
 
 ## Dag 10
 
-Vorige sessie zijn we wakker geworden in [[Deniv's Rest]] met een gevoel alsof we bekeken werden (Behalve [[Skog Traustur (Jesse)]] want die sliep in de Watchtower)
+Vorige sessie zijn we wakker geworden in [[Dinev's Rest]] met een gevoel alsof we bekeken werden (Behalve [[Skog Traustur (Jesse)]] want die sliep in de Watchtower)
 
 We checken het huisje, er is magic aanwezig vanaf meerdere plekken (detect magic) maar kunnen geen hoog genoeg investigation roll gooien en vinden verder niets.
 

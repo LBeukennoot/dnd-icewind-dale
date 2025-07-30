@@ -8,18 +8,18 @@ We krijgen onze beloning van 50 [[Gold 19]] van de vorige quest ([[Beesten in mi
 
 De [[Karavaan]] is er nog.
 
-[[Elena Footshadow (Lies)]] en [[Drawr Poof (Lars)]] gaan naar [[Blue Clam]], [[Skog Traustur (Jesse)]] en [[Althea Sardothien (Sara)]] houden de [[Karavaan]] in de gaten
+[[Elena Footshadow (Lies)]] en [[Drawr Poof (Lars)]] gaan naar [[The Blue Clam]], [[Skog Traustur (Jesse)]] en [[Althea Sardothien (Sara)]] houden de [[Karavaan]] in de gaten
 
 
 
-Na een typische dag vissen komen mensen bij [[Blue Clam]] iets drinken. [[Vernon Brake]] Neutral good Ork staat bij de bar, en we hebben geluk want hij kent een aantal jagers die in de [[Lonelywood ❄️]] actief zijn, die komen dan naar [[Termalaine ❄️]].
+Na een typische dag vissen komen mensen bij [[The Blue Clam]] iets drinken. [[Vernon Brake]] Neutral good Ork staat bij de bar, en we hebben geluk want hij kent een aantal jagers die in de [[Lonelywood ❄️]] actief zijn, die komen dan naar [[Termalaine ❄️]].
 
 
 !!! question "[[Kranok is ziek]]"
 	In [[Caer-Denival ❄️]] hebben ze al een tijdje de dorpsspreker niet gezien. [[Kranok]] is ziek geworden. Synistere figuren komen steeds in en uit (de side quest die we eerder ook gehoord hebben toevallig)
 
 
-We gaan nu naar [[Eastside]], daar komen we weer [[Martha Peschkliek]] tegen.
+We gaan nu naar [[The Eastside]], daar komen we weer [[Martha Peschkliek]] tegen.
 
 Om de godin gerust te stellen hebben alle dorpen ene groot ritueel, de grotere offeren mensen. Kleinere dorpen (zoals [[Termalaine ❄️]]) doen eens per maand vis in the [[Lonelywood ❄️]] ophangen als offer.
 
@@ -67,9 +67,9 @@ is binnenkort, dus dan is het buiten levensgevaarlijk (jeti’s en beren)
 
 [[Lonelywood ❄️]] is een klein dorp, ‘het uiteinde van de wereld’. houthakkers hakken hout en verkopen het in de dorpjes in het zuiden.
 
-[[Happy Scrimshander]] → winkeltje
+[[The Happy Scrimshander]] → winkeltje
 
-[[Lucky Liar]] → Taverne
+[[The Lucky Liar]] → Taverne
 
 [[Ramshackle]] → gesloten inn
 
@@ -77,7 +77,7 @@ bij die laatste heeft de eigenaar ‘The Groots??’ zichzelf opgehangen. inwone
 
 
 
-[[Lucky Liar]] is om ‘s avonds verhalen te vertellen, wel overdrijft/liegt iedereen erover, vandaar ook de naam [[Lucky Liar]].
+[[The Lucky Liar]] is om ‘s avonds verhalen te vertellen, wel overdrijft/liegt iedereen erover, vandaar ook de naam [[The Lucky Liar]].
 
 [[Danee Xotal]] (gitzwart haar) is de barman, zegt dat we hier niet kunnen overnachten en verwijst ons door naar de dorpsspreker
 

@@ -70,7 +70,7 @@ Nacht Nacht Nacht Nacht Nacht
 
 ## Dag 9
 
-Verder reizen naar [[Bryn Shander ❄️]], daar kwamen we [[Hlin Trolbane]] weer tegen in [[Northlook]]. Ze stelt veel vragen en wij antwoorden. Ze gelooft ons en geeft onze reward, maar zal snel genoeg merken of de moorden nu gestopt zijn. Geeft ook aan dat we moeten oppassen voor torga.
+Verder reizen naar [[Bryn Shander ❄️]], daar kwamen we [[Hlin Trolbane]] weer tegen in [[The Northlook]]. Ze stelt veel vragen en wij antwoorden. Ze gelooft ons en geeft onze reward, maar zal snel genoeg merken of de moorden nu gestopt zijn. Geeft ook aan dat we moeten oppassen voor torga.
 
 [[Midwinter]] is richting de [[Reghed Glacier]], waar precies kunnen we ook aan goliaths vragen.
 
@@ -82,11 +82,11 @@ Ferry vaart niet meer waardoor ze geen vlees meer krijgen uit good mead, daardoo
 
 Dorpsspreker zit in kasteel [[The Caer]] (Dessert).
 
-[[Uphill Climb]] willen we in overnachten. We lopen binnen met een geweldig dansje, er is een fantastisch uitzicht. We krijgen een gaar drankje (er is geen drank helaas). De eigenaar is ongeveer 45 en is een mens. Zegt dat er geen slaapplekken zijn voor ons.
+[[The Uphill Climb]] willen we in overnachten. We lopen binnen met een geweldig dansje, er is een fantastisch uitzicht. We krijgen een gaar drankje (er is geen drank helaas). De eigenaar is ongeveer 45 en is een mens. Zegt dat er geen slaapplekken zijn voor ons.
 
 Bij kasteel [[The Caer]] staan beveiligers, ze laten ons niet toe, al helemaal niet als we de health potion als hulp aanbieden.
 
-Dan toch maar naar [[Deniv's Rest]], een taverne die gestopt is. [[Skog Traustur (Jesse)]] vertrouwt het niet en slaapt daarom dus in de koude [[Ruined Watchtower]].
+Dan toch maar naar [[Dinev's Rest]], een taverne die gestopt is. [[Skog Traustur (Jesse)]] vertrouwt het niet en slaapt daarom dus in de koude [[Ruined Watchtower]].
 
 ---
 

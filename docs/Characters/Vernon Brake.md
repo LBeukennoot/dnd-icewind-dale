@@ -1,2 +1,2 @@
-runt [[Blue Clam]] in [[Termalaine ❄️]]
+runt [[The Blue Clam]] in [[Termalaine ❄️]]
 

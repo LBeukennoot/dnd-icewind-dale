@@ -8,3 +8,7 @@
 - [[Lonelywood ❄️]]
 - [[Targos ❄️]]
 - [[Termalaine ❄️]]
+
+definities:
+taverne -> bar, drankjes, tafeltjes met groepjes mensen
+inn -> hotel, bedden, slapen, rust

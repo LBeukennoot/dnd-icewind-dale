@@ -1,7 +1,7 @@
 ![[route_session1.png]]
 ## Dag 1
 
-3 moorden (via [[Hlin Trolbane]] in [[Northlook]]):
+3 moorden (via [[Hlin Trolbane]] in [[The Northlook]]):
 
 - Halfling
 - Schepenbouwer
@@ -95,7 +95,7 @@ nog 3 dagen tot volle maan
 
 huizen zijn via ondergrondse gangen verbonden
 
-[[Martha Peschkliek]] (15 jaar?) runt de [[Eastside]]
+[[Martha Peschkliek]] (15 jaar?) runt de [[The Eastside]]
 
 5 [[Gold 19]] per kamer per nacht
 
@@ -113,7 +113,7 @@ vader is visser → nu ziek dus [[Martha Peschkliek]] helpt
 	Dorpsspreker [[Kranok]] is ziek en daarom lang niet gezien
 	bevindt zich in kasteel van [[Caer-Denival ❄️]]: [[The Caer]]
 
-krantenjongen verwijst ons naar [[Blue Clam]]
+krantenjongen verwijst ons naar [[The Blue Clam]]
 
 [[Oaris]] (half ork) vertelt info:
 

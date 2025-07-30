@@ -1,3 +1,3 @@
-een van de tavernes van [[Tavern Center]]
+een van de tavernes van [[Five-Tavern Center]]
 
 in [[Lonelywood ❄️]]

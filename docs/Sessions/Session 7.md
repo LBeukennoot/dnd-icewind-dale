@@ -20,7 +20,7 @@ we komen aan vanaf [[Island of Solstice]] bij de [[Bell for Anjak]], daar zien w
 	verder verteld [[Kora Mulphoon]] dat er interessante dingen gaande zijn. zoon van [[Kora Mulphoon]] is verdwenen nadat hij samen met een searchparty opzoek ging naar de dorpsspreker ([[Salazar]]) van bremen. [[Salazar]] is gevonden, maar de searchparty is niet meer terug gekomen. [[Salazar]] was een beetje gemeen tegen [[Kora Mulphoon]].
 	In de kamer van de zoon lag een groot ijsstuk. de zoon wilde nooit meer terugkomen volgens thieflings die langs kamen. de thieflings hebben toen het ijsstuk meegenomen (thieflings hadden zelf bedeltjes om hun nek waar dat ijsstuk in stond). de zoon vertelde iets over een kasteel (er zijn maar 2 kastelen waarvan eentje is vervallen en de andere [[The Caer]] is)
 
-Nadat we met [[Kora Mulphoon]] hebben gesproken gaan we naar de 5 tavernes ([[Tavern Center]]) in het dorpje
+Nadat we met [[Kora Mulphoon]] hebben gesproken gaan we naar de 5 tavernes ([[Five-Tavern Center]]) in het dorpje
 
 [[Althea Sardothien (Sara)]] gaat naar [[Even Kiel]] (een van de 5 tavernes) en is vrij slecht onderhouden, maar er zitten alsnog mensen. [[Althea Sardothien (Sara)]] gaat praten met de eerste, maar praat mockingly over het verhaal van ons over dat we naar het eiland van de [[Auriel]] zijn gegaan.
 !!! question "[[Monster in meer van Bremen]]"
@@ -67,7 +67,7 @@ we gaan naar de townspeaker van [[Bremen ❄️]] ([[Salazar]]), is een super su
 
 we vertrekken naar [[Targos ❄️]], town hall voor [[Narth Max]]. [[Skog Traustur (Jesse)]] vermomd zichzelf als thiefling. beveiligers zeggen dat narth bij de [[Luksen Arms]] is (waar hij blijkbaar altijd te vinden is). bewaker is mega onaardig maar verteld wel iets over vacatures. we gaan verder.
 
-[[Bryn Shander ❄️]]! -> black iron smith, heeft de goedkoopste zwaarden van de 10 towns! [[Althea Sardothien (Sara)]] en [[Skog Traustur (Jesse)]] kopen armor en zwaarden, [[Drawr Poof (Lars)]] koopt een healers kit
+[[Bryn Shander ❄️]]! -> [[Blackiron Blades]], heeft de goedkoopste zwaarden van de 10 towns! [[Althea Sardothien (Sara)]] en [[Skog Traustur (Jesse)]] kopen armor en zwaarden, [[Drawr Poof (Lars)]] koopt een healers kit
 
 we gaan naar de dorpsspreker van [[Bryn Shander ❄️]] (want die maakte zich zorgen):
 [[Vaelish Gant]] zit in de gevangenis. de gevangenis is te vinden vanuit [[Lonelywood ❄️]] recht naar het noorden, aan de kust van de [[Sea of Moving Ice]].
