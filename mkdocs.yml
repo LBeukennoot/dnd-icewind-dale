@@ -93,6 +93,8 @@ plugins:
       title: "Links mentioned"
       description: ""
       description_no_links: "No links."
+      ignore_links_to:
+        - index.md
   - search
   - roamlinks
   - blog
