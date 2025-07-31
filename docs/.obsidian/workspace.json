@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Villages/Villages.md",
+                "file": "Villages/Bryn Shander ❄️.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Villages"
+              "title": "Bryn Shander ❄️"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6715f2c53dd2188b",
@@ -177,6 +177,9 @@
   },
   "active": "efceef0a32923898",
   "lastOpenFiles": [
+    "Villages/Bremen ❄️.md",
+    "Villages/Bryn Shander ❄️.md",
+    "Villages/Villages.md",
     "Villages/Termalaine ❄️.md",
     "Locations/The Eastside.md",
     "Characters/Martha Peschkliek.md",
@@ -195,14 +198,11 @@
     "The Northern Light.md",
     "Villages/Caer-Denival ❄️.md",
     "Locations/Ruined Watchtower.md",
-    "Villages/Bryn Shander ❄️.md",
     "Locations/Blackiron Blades.md",
     "Sessions/Session 7.md",
     "Locations/The Northlook.md",
     "Locations/The Uphill Climb.md",
     "Locations/Hook, Line and Sinker.md",
-    "Locations/Frozenfar Expeditions.md",
-    "Locations/Dinev's Rest.md",
     "images/icewind_dale_map.png",
     "images/icewind_dale_map_grid.png",
     "images/villages/bremen_map.png",

@@ -1,10 +1,10 @@
 [[Villages]]
 
-[[The Northlook]] (taverne)
-[[The Hooked Knucklehead]]
-[[House of the Morninglord]] (?)
-[[Rendaril's Emporium]]
-[[Geldenstag's Rest]]
-[[Blackiron Blades]] (shop)
+1. [[The Northlook]] (taverne)
+2. [[The Hooked Knucklehead]]
+3. [[House of the Morninglord]] (?)
+4. [[Rendaril's Emporium]]
+5. [[Geldenstag's Rest]]
+6. [[Blackiron Blades]] (shop)
 
 ![[bryn_shander_map.png]]
