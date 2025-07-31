@@ -28,7 +28,7 @@ nav:
 theme:
     name: 'material'
     logo: images/dnd_logo_white.png
-    favicon: images/dnd_ampersand_white.png
+    favicon: images/favicon.png
     palette:
 
     # Light mode

@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/dnd_ampersand_white.png"
+                "file": "images/favicon.png"
               },
               "icon": "lucide-image",
-              "title": "dnd_ampersand_white"
+              "title": "favicon"
             }
           }
         ]
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca972c3efda15ab",
+  "active": "dbd7a7486fc7619d",
   "lastOpenFiles": [
     "Quests/Beesten in mines.md",
     "Quests/Chingra's vangen.md",
@@ -172,7 +172,7 @@
     "Characters/Torga.md",
     "Sessions/Session 1.md",
     "images/dnd_logo_white.png",
-    "images/dnd_ampersand_white.png",
+    "images/favicon.png",
     "index.md",
     "Pasted image 20250731194722.png",
     "Villages/Bremen ❄️.md",
