@@ -1,1 +1,3 @@
 [[Quests]]
+
+[[Gem mine]]

@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "82311cfb7e3ce1d7",
+        "id": "26101a57ab27f253",
         "type": "tabs",
         "children": [
           {
-            "id": "efceef0a32923898",
+            "id": "6ca972c3efda15ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Villages/Bryn Shander ❄️.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "images/dnd_ampersand_white.png"
               },
-              "icon": "lucide-file",
-              "title": "Bryn Shander ❄️"
+              "icon": "lucide-image",
+              "title": "dnd_ampersand_white"
             }
           }
         ]
@@ -88,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
     "id": "6715f2c53dd2188b",
@@ -175,34 +163,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efceef0a32923898",
+  "active": "6ca972c3efda15ab",
   "lastOpenFiles": [
+    "Quests/Beesten in mines.md",
+    "Quests/Chingra's vangen.md",
+    "Quests/Archin Brotherhood is slecht!.md",
+    "Sessions/Session 7.md",
+    "Characters/Torga.md",
+    "Sessions/Session 1.md",
+    "images/dnd_logo_white.png",
+    "images/dnd_ampersand_white.png",
+    "index.md",
+    "Pasted image 20250731194722.png",
     "Villages/Bremen ❄️.md",
-    "Villages/Bryn Shander ❄️.md",
-    "Villages/Villages.md",
-    "Villages/Termalaine ❄️.md",
-    "Locations/The Eastside.md",
-    "Characters/Martha Peschkliek.md",
-    "Locations/The Blue Clam.md",
-    "Villages/Targos ❄️.md",
-    "Locations/Three Flags Sailing.md",
-    "Sessions/Session 5.md",
+    "Locations/Buried Treasures.md",
+    "Locations/The Grumpy Moose.md",
+    "Locations/Rivers Mouth.md",
+    "Locations/Rolling Stones.md",
+    "Locations/Even Kiel.md",
+    "Locations/Black Beared Brother.md",
+    "Locations/Five-Tavern Center.md",
     "Villages/Lonelywood ❄️.md",
-    "Locations/Ramshackle.md",
-    "Locations/The Happy Scrimshander.md",
-    "Locations/The Lucky Liar.md",
+    "Villages/Termalaine ❄️.md",
+    "Villages/Targos ❄️.md",
     "Villages/Good Mead.md",
     "Villages/Easthaven ❄️.md",
     "Villages/Dougan's Hole.md",
     "Villages/Caer-Konig ❄️.md",
-    "The Northern Light.md",
     "Villages/Caer-Denival ❄️.md",
-    "Locations/Ruined Watchtower.md",
-    "Locations/Blackiron Blades.md",
-    "Sessions/Session 7.md",
-    "Locations/The Northlook.md",
-    "Locations/The Uphill Climb.md",
-    "Locations/Hook, Line and Sinker.md",
+    "Villages/Bryn Shander ❄️.md",
+    "Locations/Maer Dualdon.md",
+    "Locations/The Lucky Liar.md",
     "images/icewind_dale_map.png",
     "images/icewind_dale_map_grid.png",
     "images/villages/bremen_map.png",
@@ -210,9 +201,6 @@
     "images/villages/caer-konig_map.png",
     "images/villages/dougans_hole_map.png",
     "images/villages/good_mead_map.png",
-    "images/villages/termalaine_map.png",
-    "images/villages/lonelywood_map.png",
-    "images/homepage/villages.png",
     "images/homepage",
     "images/villages",
     "images",
