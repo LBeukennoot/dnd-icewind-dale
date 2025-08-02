@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "26101a57ab27f253",
+        "id": "3057e057e1b3841e",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca972c3efda15ab",
+            "id": "31b585db6066d323",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/favicon.png"
+                "file": "Sessions/Session 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "favicon"
+              "icon": "lucide-file",
+              "title": "Session 7"
             }
           }
         ]
@@ -76,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 211.5
   },
   "right": {
     "id": "6715f2c53dd2188b",
@@ -165,6 +177,7 @@
   },
   "active": "dbd7a7486fc7619d",
   "lastOpenFiles": [
+    "images/favicon.png",
     "Quests/Beesten in mines.md",
     "Quests/Chingra's vangen.md",
     "Quests/Archin Brotherhood is slecht!.md",
@@ -172,7 +185,6 @@
     "Characters/Torga.md",
     "Sessions/Session 1.md",
     "images/dnd_logo_white.png",
-    "images/favicon.png",
     "index.md",
     "Pasted image 20250731194722.png",
     "Villages/Bremen ❄️.md",
@@ -193,7 +205,6 @@
     "Villages/Caer-Denival ❄️.md",
     "Villages/Bryn Shander ❄️.md",
     "Locations/Maer Dualdon.md",
-    "Locations/The Lucky Liar.md",
     "images/icewind_dale_map.png",
     "images/icewind_dale_map_grid.png",
     "images/villages/bremen_map.png",

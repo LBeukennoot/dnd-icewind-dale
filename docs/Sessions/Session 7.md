@@ -17,8 +17,8 @@ we komen aan vanaf [[Island of Solstice]] bij de [[Bell for Anjak]], daar zien w
 [[Kora Mulphoon]] verteld dat [[Bremen ❄️]] een vissersdorpje is, er zijn 5 tavernes die met elkaar concurreren, er zijn er 5 omdat geen van de 5 voor een baas wilden werken.
 
 !!! question "[[Vermiste zoon uit Bremen]]"
-	verder verteld [[Kora Mulphoon]] dat er interessante dingen gaande zijn. zoon van [[Kora Mulphoon]] is verdwenen nadat hij samen met een searchparty opzoek ging naar de dorpsspreker ([[Salazar]]) van bremen. [[Salazar]] is gevonden, maar de searchparty is niet meer terug gekomen. [[Salazar]] was een beetje gemeen tegen [[Kora Mulphoon]].
-	In de kamer van de zoon lag een groot ijsstuk. de zoon wilde nooit meer terugkomen volgens thieflings die langs kamen. de thieflings hebben toen het ijsstuk meegenomen (thieflings hadden zelf bedeltjes om hun nek waar dat ijsstuk in stond). de zoon vertelde iets over een kasteel (er zijn maar 2 kastelen waarvan eentje is vervallen en de andere [[The Caer]] is)
+	verder verteld [[Kora Mulphoon]] dat er interessante dingen gaande zijn. zoon van [[Kora Mulphoon]] is twee maanden geleden verdwenen nadat hij samen met een searchparty opzoek ging naar de dorpsspreker ([[Salazar]]) van bremen in een sneeuwstorm. [[Salazar]] is terug gekomen, maar de searchparty niet. [[Salazar]] was een beetje gemeen tegen [[Kora Mulphoon]].
+	In de kamer van de zoon lag een ice shard. de zoon wilde nooit meer terugkomen volgens thieflings die langs kamen. de thieflings hebben toen de ice shard meegenomen (thieflings hadden zelf bedeltjes om hun nek waar die ice shard in stond). de thieflings vertelde iets over een kasteel (er zijn maar 2 kastelen waarvan eentje is vervallen en de andere [[The Caer]] is)
 
 Nadat we met [[Kora Mulphoon]] hebben gesproken gaan we naar de 5 tavernes ([[Five-Tavern Center]]) in het dorpje
 
@@ -30,7 +30,7 @@ Nadat we met [[Kora Mulphoon]] hebben gesproken gaan we naar de 5 tavernes ([[Fi
 !!! question "[[Monster in meer van Bremen]]"
 	wordt verteld over een monster in het meer van [[Bremen ❄️]] (zelfde verhaal)
 
-[[Elena Footshadow (Lies)]] haalt dan een biertje en een sheppard's pie
+[[Elena Footshadow (Lies)]] haalt dan een biertje en een sheppard's pie (alle tavernes verkopen hetzelfde)
 !!! question "[[Archin Brotherhood is slecht!]]"
 	ander persoon verteld dat de vloek niet komt door de ice maiden ([[Auriel]]) maar door de archin brotherhood. je kan de groep aanvoelen, want zijn magiërs. laatst is een van de groep verbrand ([[Verbrandde magiër in Easthaven]]) en een andere zit vast in de gevangenis ([[Gevangene van Revil's End]]). Ze laten nooit sporen achter, hebben iets gedaan in de buurt van een kasteel.
 
@@ -47,7 +47,7 @@ nadat [[Drawr Poof (Lars)]] verteld dat die groep die naar de [[Auriel]] gingen 
 [[Zanar]] gaat de laatste taverne in, [[The Grumpy Moose]], maar wordt door de barman weggestuurd: 'wij helpen geen undead!!!'
 
 !!! question "[[Hulp met vandalen in Caer-Konig]]"
-	In [[Caer-Konig ❄️]] verdwijnen er dingen, townspeaker kan wel wat hulp gebruiken
+	In [[Caer-Konig ❄️]] verdwijnen er dingen, townspeaker (dragonborn) kan wel wat hulp gebruiken
 
 
 ---
@@ -65,7 +65,7 @@ nacht
 
 we gaan naar de townspeaker van [[Bremen ❄️]] ([[Salazar]]), is een super super oude dwerg, wist niet meer hoe die in de sneeuwstorm terecht is gekomen, na detect thoughts blijkt dat hij heel veel gaten in zijn geheugen heeft.
 
-we vertrekken naar [[Targos ❄️]], town hall voor [[Narth Max]]. [[Skog Traustur (Jesse)]] vermomd zichzelf als thiefling. beveiligers zeggen dat narth bij de [[Luksen Arms]] is (waar hij blijkbaar altijd te vinden is). bewaker is mega onaardig maar verteld wel iets over vacatures. we gaan verder.
+we vertrekken naar [[Targos ❄️]], town hall voor [[Narth Max]]. [[Skog Traustur (Jesse)]] vermomd (disguise self) zichzelf als thiefling. beveiligers zeggen dat narth bij de [[Luksen Arms]] is (waar hij blijkbaar altijd te vinden is). bewaker is mega onaardig maar verteld wel iets over vacatures en militia. we gaan verder.
 
 [[Bryn Shander ❄️]]! -> [[Blackiron Blades]], heeft de goedkoopste zwaarden van de 10 towns! [[Althea Sardothien (Sara)]] en [[Skog Traustur (Jesse)]] kopen armor en zwaarden, [[Drawr Poof (Lars)]] koopt een healers kit
 
