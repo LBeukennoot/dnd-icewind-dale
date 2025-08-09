@@ -50,3 +50,5 @@ Berg wordt steeds stijler. [[Althea Sardothien (Sara)]] en [[Skog Traustur (Jess
 Bij de grot zien we bloed. We gaan naar binnen. Over ijs heen. Kleine Yeti is met een halfling aan het spelen die als een balletje bang zit. Nu gaan we combat aan.
 
 Yeti heeft lvl 3 ding ofzo, heeft meer dan 28 HP, baby is wel dood na fireball. Uiteindeijk dood, maar bleek (fout van Heiko!!!!!!) eigenlijk een lvl 9 [[Yeti (lvl 9)]] te zijn met AC 15. Hebben we gewoon effe verslagen he sjonge.
+
+[[Sessions]]

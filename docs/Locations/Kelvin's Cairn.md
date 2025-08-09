@@ -1,6 +1,8 @@
 ---
 Type: Quest
 ---
+[[Locations]]
+
 grote berg
 
 vlakbij [[Caer-Konig ❄️]]

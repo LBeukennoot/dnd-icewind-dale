@@ -1,3 +1,5 @@
+[[Characters]]
+
 komt uit [[Midwinter]]
 
 is de hoofdverdachte van de 3 moorden in de 10 towns

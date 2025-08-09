@@ -1,4 +1,4 @@
-![[route_session1.png]]
+![[route_session1.png]] 
 ## Dag 1
 
 3 moorden (via [[Hlin Trolbane]] in [[The Northlook]]):
@@ -163,3 +163,5 @@ kobolden zijn onschuldig → [[Trex]] is opperdraak met houtvleugels. het blijkt
 
 ([[Elena Footshadow (Lies)]])
 END OF SESSION
+
+[[Sessions]]

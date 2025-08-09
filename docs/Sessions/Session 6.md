@@ -26,3 +26,5 @@ met [[Althea Sardothien (Sara)]], [[Elena Footshadow (Lies)]] op de rug van [[An
 na het gevecht gaan ze met z'n allen nog proberen kisten te openen en oja dan herinneren ze dat ze [[Drawr Poof (Lars)]] nog even moeten ophalen, dat doen ze
 
 EINDE SESSIE
+
+[[Sessions]]

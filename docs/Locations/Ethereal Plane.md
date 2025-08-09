@@ -1,1 +1,3 @@
+[[Locations]]
+
 zijn hierin geschoten door de summerstar in de [[Black Cabin]]

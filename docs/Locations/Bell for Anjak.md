@@ -1,3 +1,5 @@
+[[Locations]]
+
 [[Vulture]] gevochten hier
 
 aan de kust van [[Sea of Moving Ice]]

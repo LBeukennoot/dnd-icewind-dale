@@ -1,1 +1,3 @@
+[[Characters]]
+
 is de hond van [[Gereth Velrim]]

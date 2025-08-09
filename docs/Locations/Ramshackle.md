@@ -1,6 +1,8 @@
 ---
 Type: Herberg
 ---
+[[Locations]]
+
 een gesloten herberg
 
 is te vinden in [[Lonelywood ❄️]]

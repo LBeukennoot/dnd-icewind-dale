@@ -1,6 +1,8 @@
 ---
 Type: Herberg
 ---
+[[Locations]]
+
 taverne in [[Lonelywood ❄️]]
 
 wordt gerund door [[Danee Xotal]]

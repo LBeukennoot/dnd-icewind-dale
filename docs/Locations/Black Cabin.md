@@ -1,3 +1,5 @@
+[[Locations]]
+
 bewoond door [[Macreadus]]
 
 vlakbij [[Lonelywood ❄️]]

@@ -1,4 +1,4 @@
- 
+[[Characters]] 
 
 Townspeaker van [[Bryn Shander ❄️]]
 

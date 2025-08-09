@@ -1,3 +1,4 @@
 ---
 Type: Quest
 ---
+[[Locations]]

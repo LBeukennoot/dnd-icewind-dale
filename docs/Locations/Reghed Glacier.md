@@ -1,1 +1,3 @@
+[[Locations]]
+
 groot gebied in het oosten van icewind dale
