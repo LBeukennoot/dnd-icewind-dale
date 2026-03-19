@@ -32,7 +32,7 @@ Nadat we met [[Kora Mulphoon]] hebben gesproken gaan we naar de 5 tavernes ([[Fi
 
 [[Elena Footshadow (Lies)]] haalt dan een biertje en een sheppard's pie (alle tavernes verkopen hetzelfde)
 !!! question "[[Archin Brotherhood is slecht!]]"
-	ander persoon verteld dat de vloek niet komt door de ice maiden ([[Auriel]]) maar door de archin brotherhood. je kan de groep aanvoelen, want zijn magiërs. laatst is een van de groep verbrand ([[Verbrandde magiër in Easthaven]]) en een andere zit vast in de gevangenis ([[Gevangene van Revil's End]]). Ze laten nooit sporen achter, hebben iets gedaan in de buurt van een kasteel.
+	ander persoon verteld dat de vloek niet komt door de ice maiden ([[Auriel]]) maar door de [[Archin Brotherhood]]. je kan de groep aanvoelen, want zijn magiërs. laatst is een van de groep verbrand ([[Verbrandde magiër in Easthaven]]) en een andere zit vast in de gevangenis ([[Gevangene van Revil's End]]). Ze laten nooit sporen achter, hebben iets gedaan in de buurt van een kasteel.
 
 [[Drawr Poof (Lars)]] gaat naar [[Black Beared Brother]], is vrij slecht onderhouden
 -4 [[Copper 489]] voor bier
@@ -42,7 +42,7 @@ nadat [[Drawr Poof (Lars)]] verteld dat die groep die naar de [[Auriel]] gingen 
 
 [[Skog Traustur (Jesse)]] gaat naar [[Rolling Stones]], is een beetje shitty vanbinnen. [[Skog Traustur (Jesse)]] geeft een groepje van 6 eten en drinken en beginnen te vertellen
 !!! question "[[Gevangene van Revil's End]]"
-	In [[Bryn Shander ❄️]] maakt de townspeaker ([[Dufesa Shane]]) zich zorgen om de roddels over de archin brotherhood. gast in de gevangenis ([[Revil's End]]) heeft meer info, reward is 250 gold. de gevangenis is te vinden bij de [[Sea of Moving Ice]].
+	In [[Bryn Shander ❄️]] maakt de townspeaker ([[Dufesa Shane]]) zich zorgen om de roddels over de [[Archin Brotherhood]]. gast in de gevangenis ([[Revil's End]]) heeft meer info, reward is 250 gold. de gevangenis is te vinden bij de [[Sea of Moving Ice]].
 
 [[Zanar]] gaat de laatste taverne in, [[The Grumpy Moose]], maar wordt door de barman weggestuurd: 'wij helpen geen undead!!!'
 
@@ -71,7 +71,7 @@ we vertrekken naar [[Targos ❄️]], town hall voor [[Narth Max]]. [[Skog Traus
 
 we gaan naar de dorpsspreker van [[Bryn Shander ❄️]] (want die maakte zich zorgen):
 [[Vaelish Gant]] zit in de gevangenis. de gevangenis is te vinden vanuit [[Lonelywood ❄️]] recht naar het noorden, aan de kust van de [[Sea of Moving Ice]].
-we krijgen een brief die is geschreven door de dorpsspreker zelf ([[Dufesa Shane]]). erin staat dat als [[Vaelish Gant]] informatie geeft over de archin brotherhood, dat hij dan een kortere straf krijgt.
+we krijgen een brief die is geschreven door de dorpsspreker zelf ([[Dufesa Shane]]). erin staat dat als [[Vaelish Gant]] informatie geeft over de [[Archin Brotherhood]], dat hij dan een kortere straf krijgt.
 de gevangenen van [[Revil's End]] komen daar per boot over de [[Sea of Moving Ice]], dit gebied verlaten gaat op diezelfde manier (maar dat is verder niet nodig voor ons)
 
 we gaan naar [[Lonelywood ❄️]] om via de [[Black Cabin]] naar de gevangenis [[Revil's End]] te gaan.
@@ -95,5 +95,7 @@ dankzij aanwijzingen vanuit de [[Ethereal Plane]] maken [[Skog Traustur (Jesse)]
 niet helemaal positief, want nu komen de beveiligers van [[Auriel]] naar ons toe vliegen...
 
 EINDE SESSIE
+
+[[Session 8]]
 
 [[Sessions]]

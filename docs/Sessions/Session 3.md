@@ -47,7 +47,7 @@ We beginnen met onze reis richting [[Bryn Shander ❄️]], tijdens de reis krij
 [[Reged Nomad]] zijn dé personen om verstopte dingen in Icewind Dale te vinden. Ze kennen het gebied heel goed. Is wel heel lastig deze mensen te vinden, enige wat bekend is dat ze de [[Rendier kudde]] volgen.
 
 !!! question "[[Archin Brotherhood is slecht!]]"
-	“Deze winter komt niet door de auriel, maar door de Archin Brotherhood die de 10 towns willen overnemen! [[Vaelish Gant]] is verantwoordelijk, zit momenteel gevangen in Revils End, maar is daardoor niet minder gevaarlijk!”
+	“Deze winter komt niet door de auriel, maar door de [[Archin Brotherhood]] die de 10 towns willen overnemen! [[Vaelish Gant]] is verantwoordelijk, zit momenteel gevangen in Revils End, maar is daardoor niet minder gevaarlijk!”
 
 !!! question "[[Ruzie tussen goliaths]]"
 	Weinig goliaths meer. Dat kan veranderen als de ruzie tussen de 2 goliath clans opgelost wordt. Is te vinden in The [[Spine of the World]].
@@ -103,5 +103,7 @@ Nacht Nacht Nacht Nacht Nacht
 EINDE SESSIE
 
 oja en volgende sessie een tweede persoon notuleren zodat we zeker weten dat we niets qua info missen.
+
+[[Session 4]]
 
 [[Sessions]]

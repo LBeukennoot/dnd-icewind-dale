@@ -41,10 +41,10 @@ Frost maiden ([[Auriel]]) leeft op eiland in [[Sea of Moving Ice]] en walvis ([[
 	Naar noord-westen van [[Bremen ❄️]] zit een piratenschip
 
 !!! question "[[Verbrandde magiër in Easthaven]]"
-	In [[Easthaven ❄️]] is een slechte magiër vastgebonden en in de fik gestoken. 10 towners ingehuurd en vermoord voor geheime vegraven toren van [[Nethegail]]. De top van de toren is te zien ten oosten van [[Kelvin's Cairn]]
+	In [[Easthaven ❄️]] is een slechte magiër vastgebonden en in de fik gestoken. 10 towners ingehuurd en vermoord voor geheime vegraven toren van [[docs/Locations/Tower of Netheril]]. De top van de toren is te zien ten oosten van [[Kelvin's Cairn]]
 
 !!! question "[[Archin Brotherhood is slecht!]]"
-	Magiërs zijn iets, archin brotherhood zijn het probleem. [[Vaelish Gant]] (zit in de gevangenis bij [[Revil's End]]) ipv de godin, die is er namelijk al decennia lang!
+	Magiërs zijn iets, [[Archin Brotherhood]] zijn het probleem. [[Vaelish Gant]] (zit in de gevangenis bij [[Revil's End]]) ipv de godin, die is er namelijk al decennia lang!
 
 We gaan naar [[Gereth Velrim]] voor meer info over de gastvrijheid
 
@@ -120,5 +120,7 @@ daarbinnen openen we voorzichtig verschillende deuren totdat er achter 1 deur ee
 [[Elena Footshadow (Lies)]]
 
 EINDE SESSIE
+
+[[Session 6]]
 
 [[Sessions]]

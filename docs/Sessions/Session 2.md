@@ -133,4 +133,6 @@ De [[White moose]] zit in de grot achter de tombe, we wachten tot ie eruit komt:
 
 END OF SESSION
 
+[[Session 3]]
+
 [[Sessions]]

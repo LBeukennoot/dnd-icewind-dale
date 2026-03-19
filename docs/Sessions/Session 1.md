@@ -164,4 +164,6 @@ kobolden zijn onschuldig → [[Trex]] is opperdraak met houtvleugels. het blijkt
 ([[Elena Footshadow (Lies)]])
 END OF SESSION
 
+[[Session 2]]
+
 [[Sessions]]

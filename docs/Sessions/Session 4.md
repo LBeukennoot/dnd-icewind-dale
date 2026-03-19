@@ -51,4 +51,8 @@ Bij de grot zien we bloed. We gaan naar binnen. Over ijs heen. Kleine Yeti is me
 
 Yeti heeft lvl 3 ding ofzo, heeft meer dan 28 HP, baby is wel dood na fireball. Uiteindeijk dood, maar bleek (fout van Heiko!!!!!!) eigenlijk een lvl 9 [[Yeti (lvl 9)]] te zijn met AC 15. Hebben we gewoon effe verslagen he sjonge.
 
+EINDE SESSIE
+
+[[Session 5]]
+
 [[Sessions]]

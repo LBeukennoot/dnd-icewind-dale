@@ -27,4 +27,6 @@ na het gevecht gaan ze met z'n allen nog proberen kisten te openen en oja dan he
 
 EINDE SESSIE
 
+[[Session 7]]
+
 [[Sessions]]
