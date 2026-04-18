@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Sessions.md",
+                "file": "Sessions/Session 9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sessions"
+              "title": "Session 9"
             }
           }
         ]
@@ -177,6 +177,15 @@
   },
   "active": "31b585db6066d323",
   "lastOpenFiles": [
+    "Locations/Karavaan.md",
+    "Sessions/Session 9.md",
+    "Sessions/Session 8.md",
+    "Villages/Caer-Denival ❄️.md",
+    "Pasted image 20260418221245.png",
+    "Locations/Dinev's Rest.md",
+    "Locations/Ruined Watchtower.md",
+    "Villages/Lonelywood ❄️.md",
+    "Sessions/Sessions.md",
     "Sessions/Session 7.md",
     "Sessions/Session 6.md",
     "Sessions/Session 5.md",
@@ -184,7 +193,6 @@
     "Sessions/Session 3.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
-    "Sessions/Sessions.md",
     "Villages/Bremen ❄️.md",
     "Quests/Archin Brotherhood is slecht!.md",
     "Locations/Three Flags Sailing.md",
@@ -196,13 +204,6 @@
     "Locations/The Eastside.md",
     "Locations/The Caer.md",
     "Locations/The Blue Clam.md",
-    "Locations/Spine of the World.md",
-    "Locations/Sea of Moving Ice.md",
-    "Locations/Ruined Watchtower.md",
-    "Locations/Rolling Stones.md",
-    "Locations/Rivers Mouth.md",
-    "Locations/Revil's End.md",
-    "Locations/Rendier kudde.md",
     "images/favicon.png",
     "images/dnd_logo_white.png",
     "Pasted image 20250731194722.png",
@@ -212,7 +213,6 @@
     "images/routes/route_session5.png",
     "images/villages/caer-konig_map.png",
     "images/villages/dougans_hole_map.png",
-    "images/villages/good_mead_map.png",
     "images/homepage",
     "images/villages",
     "images",

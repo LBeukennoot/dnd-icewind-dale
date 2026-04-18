@@ -30,18 +30,14 @@ We gaan naar [[Bryn Shander ❄️]] om [[Dufesa Shane]] te updaten met wat we h
 !!! question "[[Tower of Netheril]]"
 	Niet zomaar een toren: de verloren toren van [[docs/Locations/Tower of Netheril]], ten oosten van [[Caer-Konig ❄️]].
 
-Naar [[The Caer]], lies geeft de beveiligers laxerende scones. 1 persoon is lactose intolerant dus die is niet affected, die is knocked out. Tijdens het verder onderzoeken van [[The Caer]], waarschijnlijk zit in kamer 8 een caltist. In kamer 9 zit een rode thiefling, kamer eronder zit een dwarf. In de kelder zit een gang met water, aan het eind van de gang drijft een boot. In de gang zit ook een albino thiefling en een Arch-devil.
+Naar [[The Caer]], lies geeft de beveiligers laxerende scones. 1 persoon is lactose intolerant dus die is niet affected, die is knocked out. Tijdens het verder onderzoeken van [[The Caer]], waarschijnlijk zit in kamer 8 een cultist. In kamer 9 zit een rode thiefling, kamer eronder zit een dwarf. In de kelder zit een gang met water, aan het eind van de gang drijft een boot. In de gang zit ook een albino thiefling en een Arch-devil.
 
-nu bij de kamer van de nieuwe townspeaker (hij zat te kakken op de wc), die [[Kranok]] gevangen houd. cultisten hebben het leiderschap overgenomen ([[Knights of the Black Sword]]). Ze hebben amuletten, netzoals die ene thieflings ([[Vermiste zoon uit Bremen]]??). De bewakers zaten allemaal op de wc, die we hebben opgeblazen.
+nu bij de kamer van de nieuwe townspeaker (hij zat te kakken op de wc), die [[Kranok]] gevangen houd. cultisten hebben het leiderschap overgenomen ([[Knights of the Black Sword]]). Ze hebben amuletten, netzoals die ene thieflings ([[Vermiste zoon uit Bremen]]??). De bewakers zaten allemaal op de wc, die we hebben opgeblazen. ook de leider is verdwenen
 
 We willen [[Avarice]] (thiefling) bevechten, maar gooit ons allemaal naar de [[Ethereal Plane]], behalve lars. de thiefling waarschuwt ons.
 
-We zien een witte uil ([[Felynn Harpell]]??)
-
-voetstappen van dwergen richting de [[Ruined Watchtower]], daar zit een geheim luik.
+We zien een witte uil ([[Felynn Harpell]]??) gelukkig worden we met rust gelaten en volgen we voetstappen van dwergen richting de [[Ruined Watchtower]], daar zit een geheim luik. EINDE SESSIE
 
 [[Neverwinter]] is een machtig iemand, heeft invloed op wat er gebeurt in Icewind Dale, [[Midwinter]] is een verloren dorp.
-
-EINDE SESSIE
 
 [[Sessions]]
