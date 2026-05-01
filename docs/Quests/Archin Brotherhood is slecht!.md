@@ -1,3 +1,0 @@
-[[Quests]]
-
-[[Archin Brotherhood]]

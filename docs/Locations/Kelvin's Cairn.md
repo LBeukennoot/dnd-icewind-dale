@@ -7,4 +7,4 @@ grote berg
 
 vlakbij [[Caer-Konig ❄️]]
 
-heeft te maken met de quest [[Vermisten op Kelvin's Cairn]]
+heeft te maken met de quest [[Vermisten op Kelvin's Cairn ✅]]

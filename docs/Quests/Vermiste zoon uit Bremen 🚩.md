@@ -1,0 +1,4 @@
+[[Quests]]
+
+verder verteld [[Kora Mulphoon]] dat er interessante dingen gaande zijn. zoon van [[Kora Mulphoon]] is twee maanden geleden verdwenen nadat hij samen met een searchparty opzoek ging naar de dorpsspreker ([[Salazar]]) van bremen in een sneeuwstorm. [[Salazar]] is terug gekomen, maar de searchparty niet. [[Salazar]] was een beetje gemeen tegen [[Kora Mulphoon]].
+In de kamer van de zoon lag een ice shard. de zoon wilde nooit meer terugkomen volgens thieflings die langs kamen. de thieflings hebben toen de ice shard meegenomen (thieflings hadden zelf bedeltjes om hun nek waar die ice shard in stond). de thieflings vertelde iets over een kasteel (er zijn maar 2 kastelen waarvan eentje is vervallen en de andere [[The Caer]] is)

@@ -18,7 +18,7 @@ Half elf is [[Egglander Cor]] en is de bartender. Er staan al halve glazen bier 
 
 Lopen naar [[Frozenfar Expeditions]]. Grote schuur, verkoper is een mensenmens zegt dat de avonturiers (waar we naar opzoek zijn) 2 dagen eerder hier ook zijn geweest om spullen te kopen. We hebben al best wel goede kleding maar hebben nog wat meer nodig als we berg willen beklimmen.
 
-!!! question "[[Minder dwergen]]"
+!!! question "[[Minder dwergen 🚩]]"
 	[[Dwarven's valley]] → er zijn niet zo veel dwergen meer (zegt een van de 2 verkopers)
 
 pp -5 [[Gold 19]] voor klimspullen (20 gp in totaal)

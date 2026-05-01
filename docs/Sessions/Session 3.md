@@ -14,18 +14,18 @@ Meteen checken of er nog magie in de buurt is: komt achter de [[Elven Tombe]] va
 
 De spiegel had iets met een moonbeam spell waardoor [[Rafishin]] ons kon zien aankomen, daardoor wist ook de white moose waar wij waren enzo.
 
-De tombe is van de zus van [[Rafishin]], we besluiten ‘m te openen. Erin zitten 2 potions: een health en vitality potion en een haaienhuid. Dit nemen we mee.
+De tombe is van de zus van [[Rafishin]], we besluiten ‘m te openen. Erin zitten 2 potions: een [[Potion of Health]] en [[Potion of Vitality]] en een [[haaienhuid]]. Dit nemen we mee.
 
-De rechter gang leidt naar een identieke maar gespiegelde tombe, ook dat graf duwen we open en vinden we: een boog zonder pees, 6 zilveren pijlpunten, houten mok met een vliegende vis erin gegraveerd.
+De rechter gang leidt naar een identieke maar gespiegelde tombe, ook dat graf duwen we open en vinden we: een boog zonder pees, 6 [[pijlpunten]], [[houten mok]] met een vliegende vis erin gegraveerd.
 
 Na dit geheel gaan we terug naar [[Nincy Huddle]] en updaten we haar van wat er is gebeurt. Ze is heel blij dat de moose weg is en als reward bakt ze allemaal lekkers voor ons.
 
 [[Skog Traustur (Jesse)]] gaat in [[Lonelywood ❄️]] nog opzoek naar [[Danika Graysteel]] om meer te weten te komen over de [[Chingra]]’s. Kan haar helaas niet vinden. Wel deze quests:
 
-!!! question "[[Dwergen zijn wat kwijt]]"
+!!! question "[[Dwergen zijn wat kwijt 🚩]]"
 	In [[Bryn Shander ❄️]], Dwergen die goed betalen voor het vinden van hun verloren lading
 
-!!! question "[[Vermisten op Kelvin's Cairn]]"
+!!! question "[[Vermisten op Kelvin's Cairn ✅]]"
 	In [[Targos ❄️]], Avonturiers die op expeditie gaan naar [[Kelvin's Cairn]], op zoek naar een Goliath lycantrope (kan veranderen in een ijsbeer)
 
 ---
@@ -38,18 +38,18 @@ Nacht Nacht Nacht Nacht Nacht Nacht Nacht Nacht
 
 We beginnen met onze reis richting [[Bryn Shander ❄️]], tijdens de reis krijgen we weer een aantal nieuwe quests:
 
-!!! question "[[Visser is weg]]"
+!!! question "[[Visser is weg 🚩]]"
 	[[Nabina Moarskull]], is een visser in [[Easthaven ❄️]]. Heeft een magische vishaak om magische vissen te vangen maar is aangevallen door Grolls (wolfmens) en hebben haar vermoord en de vishengel gestolen. Jagers hebben hun geprobeerd te achtervolgen maar staakten hun zoektocht bij een grote scheur in de grond.
 
-!!! question "[[Piratenschip bij bremen]]"
+!!! question "[[Piratenschip bij bremen 🚩]]"
 	Bij [[Bremen ❄️]] en dan naar het noorden is een piratenschip vastgevroren. Niemand weet waar het vandaan komt, maar weten wel dat het voorlopig nergens heen gaat en vol met schatten zit.
 
 [[Reged Nomad]] zijn dé personen om verstopte dingen in Icewind Dale te vinden. Ze kennen het gebied heel goed. Is wel heel lastig deze mensen te vinden, enige wat bekend is dat ze de [[Rendier kudde]] volgen.
 
-!!! question "[[Archin Brotherhood is slecht!]]"
+!!! question "[[Archin Brotherhood is slecht! 🚩]]"
 	“Deze winter komt niet door de auriel, maar door de [[Archin Brotherhood]] die de 10 towns willen overnemen! [[Vaelish Gant]] is verantwoordelijk, zit momenteel gevangen in Revils End, maar is daardoor niet minder gevaarlijk!”
 
-!!! question "[[Ruzie tussen goliaths]]"
+!!! question "[[Ruzie tussen goliaths 🚩]]"
 	Weinig goliaths meer. Dat kan veranderen als de ruzie tussen de 2 goliath clans opgelost wordt. Is te vinden in The [[Spine of the World]].
 
 Deze quests krijgen we omdat onze reputation beter wordt door de goede daden die we hebben gedaan.

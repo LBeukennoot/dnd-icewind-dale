@@ -9,7 +9,7 @@ we stellen halfling in de grot tot rust, bedankt ons maar is wel in trauma.
 
 er liggen mensenresten in de grot
 we gaan verder, zien een kamp met 2 lijken. thiefling en dwerg met een blauwe schoen
-sara vindt een spellbook en potion of invisibility
+sara vindt een [[Spellbook]] en [[Potion of Invisibility]]
 
 naar basecamp, naar [[Targos ❄️]]
 [[Keegan Velrim]] en [[Gereth Velrim]] herenigd en we krijgen een cadeau
@@ -29,21 +29,21 @@ nacht
 [[Drawr Poof (Lars)]] doet een goed dansje
 gaan naar [[Three Flags Sailing]] (herberg), daar werkt Ethan (vrouwenmens)
 
-!!! question "[[Monster in meer van Bremen]]"
+!!! question "[[Monster in meer van Bremen 🚩]]"
 	In [[Bremen ❄️]] worden vissers geterroriseerd door monster in [[Maer Dauldon]]
 
 Frost maiden ([[Auriel]]) leeft op eiland in [[Sea of Moving Ice]] en walvis ([[Anjak]]) kan je daar naartoe brengen, door [[Bell for Anjak]] te luiden ten noord-westen van [[Targos ❄️]]
 
-!!! question "[[Monster in meer van Bremen]]"
+!!! question "[[Monster in meer van Bremen 🚩]]"
 	In [[Bremen ❄️]] zit een monster die boten kaapt
 
-!!! question "[[Piratenschip bij bremen]]"
+!!! question "[[Piratenschip bij bremen 🚩]]"
 	Naar noord-westen van [[Bremen ❄️]] zit een piratenschip
 
-!!! question "[[Verbrandde magiër in Easthaven]]"
-	In [[Easthaven ❄️]] is een slechte magiër vastgebonden en in de fik gestoken. 10 towners ingehuurd en vermoord voor geheime vegraven toren van [[docs/Locations/Tower of Netheril]]. De top van de toren is te zien ten oosten van [[Kelvin's Cairn]]
+!!! question "[[Verbrandde magiër in Easthaven 🚩]]"
+	In [[Easthaven ❄️]] is een slechte magiër vastgebonden en in de fik gestoken. 10 towners ingehuurd en vermoord voor geheime vegraven toren van [[Spire of Netheril]]. De top van de toren is te zien ten oosten van [[Kelvin's Cairn]]
 
-!!! question "[[Archin Brotherhood is slecht!]]"
+!!! question "[[Archin Brotherhood is slecht! 🚩]]"
 	Magiërs zijn iets, [[Archin Brotherhood]] zijn het probleem. [[Vaelish Gant]] (zit in de gevangenis bij [[Revil's End]]) ipv de godin, die is er namelijk al decennia lang!
 
 We gaan naar [[Gereth Velrim]] voor meer info over de gastvrijheid

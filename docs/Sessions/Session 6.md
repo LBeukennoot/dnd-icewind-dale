@@ -19,7 +19,7 @@ dan komt de [[Auriel]] aanvliegen, pakt skog op en laat hem boven het water vall
 
 [[Drawr Poof (Lars)]] doet dat niet en komt oog in oog te staan met [[Auriel]]. [[Auriel]] bevriest hem, waarna hij probeert te communiceren. zodra de bevriezing is uitgewerkt vliegt hij de trap op en vliegt naar de bel, auriel komt niet achter hem aan.
 
-terug naar [[Skog Traustur (Jesse)]], hij kon net optijd naar een schipswrak zwemmen, daar is hij kisten aan het looten en vind zo 2500 goud. in een andere kist zit een magische vishengel, maar na investigation denkt [[Skog Traustur (Jesse)]] dat het een mimic is en laat m liggen. met twee pannen probeert hij een noodbel te creëren, waarna [[Anjak]] naar hem toe komt
+terug naar [[Skog Traustur (Jesse)]], hij kon net optijd naar een schipswrak zwemmen, daar is hij kisten aan het looten en vind zo 2500 goud. in een andere kist zit een [[magische vishengel]], maar na investigation denkt [[Skog Traustur (Jesse)]] dat het een mimic is en laat m liggen. met twee pannen probeert hij een noodbel te creëren, waarna [[Anjak]] naar hem toe komt
 
 met [[Althea Sardothien (Sara)]], [[Elena Footshadow (Lies)]] op de rug van [[Anjak]] proberen ze opzoek te gaan naar [[Skog Traustur (Jesse)]], onderweg komen ze haaien tegen welke ze moeten bevechten. [[Skog Traustur (Jesse)]] probeert mee te vechten vanaf het wrak.
 

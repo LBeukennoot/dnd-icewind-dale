@@ -57,6 +57,15 @@
 
     [:octicons-arrow-right-24: Locations](/dnd-icewind-dale/Locations/Locations)
 
+-   ![Inventory](inventory.png)
+
+    ---
+
+	#### Inventory
+    Spullen die tijdens de tocht gevonden worden die later heel handig kunnen zijn, zoals brieven of potions.
+
+    [:octicons-arrow-right-24: Inventory](/dnd-icewind-dale/Inventory/Inventory)
+
 </div>
 
 ![[icewind_dale_map.png]]

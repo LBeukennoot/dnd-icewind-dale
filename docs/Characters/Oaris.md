@@ -2,4 +2,4 @@
 
 in [[Termalaine ❄️]]
 
-verteld ons over [[Beesten in mines]]
+verteld ons over [[Beesten in mines ✅]]

@@ -2,4 +2,4 @@
 
 uit [[Easthaven ❄️]]
 
-vermist, quest [[Visser is weg]]
+vermist, quest [[Visser is weg 🚩]]

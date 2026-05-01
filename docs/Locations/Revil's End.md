@@ -7,4 +7,4 @@ gevangenis bij [[Sea of Moving Ice]], is te vinden door vanuit [[Lonelywood ❄�
 
 [[Vaelish Gant]] zit hier opgesloten, is onderdeel van de [[Archin Brotherhood]]
 
-quest: [[Gevangene van Revil's End]]
+quest: [[Gevangene van Revil's End ✅]]

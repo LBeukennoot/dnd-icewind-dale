@@ -101,15 +101,15 @@ huizen zijn via ondergrondse gangen verbonden
 
 vader is visser → nu ziek dus [[Martha Peschkliek]] helpt
 
-!!! question "[[Beesten in mines]]"
+!!! question "[[Beesten in mines ✅]]"
 	[[Gem mine]] is geplaagd door beesten -> underdark
 	50 goud als reward
 
-!!! question "[[Leider vermoord]]"
+!!! question "[[Leider vermoord 🚩]]"
 	Een leider is vermoord door 9m grote reus
 	Honingmede is gestolen uit [[Good Mead]]
 
-!!! question "[[Kranok is ziek]]"
+!!! question "[[Kranok is ziek ✅]]"
 	Dorpsspreker [[Kranok]] is ziek en daarom lang niet gezien
 	bevindt zich in kasteel van [[Caer-Denival ❄️]]: [[The Caer]]
 
@@ -135,7 +135,7 @@ mijn is belangrijk economisch punt voor het dorp
 
 ---
 
-!!! question "[[Hulp met vandalen in Caer-Konig]]"
+!!! question "[[Hulp met vandalen in Caer-Konig 🚩]]"
 	[[Caer-Konig ❄️]] heeft vandalen en dieven
 	Dorpsspreker kan hulp gebruiken
 
