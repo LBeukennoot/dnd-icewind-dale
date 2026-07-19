@@ -14,6 +14,12 @@ sara vindt een [[Spellbook]] en [[Potion of Invisibility]]
 naar basecamp, naar [[Targos ❄️]]
 [[Keegan Velrim]] en [[Gereth Velrim]] herenigd en we krijgen een cadeau
 
+cooking tools
+navigation tools
+cobblers tools
+cartographers tools
+longsword
+
 ---
 nacht
 
