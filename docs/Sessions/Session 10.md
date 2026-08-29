@@ -1,7 +1,5 @@
 ## Dag 26 (nogsteeds)
 
-[[Session 9]]
-
 we gaan in gesprek met deze versie van dzaan, is een neppe versie van zichzelf. in de kamer hieronder kan er met magie illusies tot werkelijkheid gebracht worden.
 
 andere dzaan versie (origineel) is op de brandstapel in easthaven beland. ieder dorp ging anders om met de winter, sommige dorpen gingen maandelijks mensen opofferen.
@@ -40,6 +38,10 @@ we babbelen met zn allen, lars heeft wildmagic, sara is op een geheime missie om
 jesse wilt sorcerer subclass hebben
 
 nu hebben we geslapen
+---
+nacht
+---
+dag 27
 
 jesse gaat experimenteren met de morning star, probeert ook te oefenen, maar dat werkte niet
 
@@ -56,5 +58,9 @@ op een gegeven moment doet lars detect magic en ziet een ding lopen, het is blij
 we lopen verder, het begint eventjes te regenen, en uiteindelijk komen we bij een soort fort, maar het is nog maar net opgezet als een fort. uit het niets horen we gerammel, en gaat het dak open en vliegt daar een gigantische ijsdraak uit, die vliegt richting de 10 towns.
 
 EINDE SESSIE
+
+[[Session 9]]
+
+[[Session 11]]
 
 [[Sessions]]

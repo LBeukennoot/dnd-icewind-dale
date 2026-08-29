@@ -72,4 +72,6 @@ jesse doet insight op hoe betrouwbaar hij m vindt. hij kan redelijk vertrouwd wo
 
 [[Session 8]]
 
+[[Session 10]]
+
 [[Sessions]]

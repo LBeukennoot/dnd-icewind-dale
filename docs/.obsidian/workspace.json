@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Partenex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Partenex"
-            }
-          },
-          {
-            "id": "31b585db6066d323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Sessions/Session 10.md",
                 "mode": "source",
                 "source": false,
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Session 10"
+            }
+          },
+          {
+            "id": "31b585db6066d323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Yeti (lvl 9).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Yeti (lvl 9)"
             }
           }
         ],
@@ -201,12 +201,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbd7a7486fc7619d",
+  "active": "31b585db6066d323",
   "lastOpenFiles": [
+    "index.md",
+    "Sessions/Session 12.md",
+    "Sessions/Session 11.md",
+    "Sessions/Session 10.md",
+    "Sessions/Session 9.md",
+    "Sessions/Session 8.md",
+    "Sessions/Sessions.md",
+    "images/icewind_dale_map_grid.png",
+    "images/route_dragon_dwarven_valley.png",
+    "images/icewind_dale_map.png",
     "Characters/Partenex.md",
     "Sessions/Session 2.md",
-    "Sessions/Session 9.md",
-    "Sessions/Session 10.md",
     "Sessions/Session 5.md",
     "Quests/Minder dwergen 🚩.md",
     "Sessions/Session 4.md",
@@ -217,28 +225,20 @@
     "Characters/Archin Brotherhood.md",
     "Characters/Dzaan.md",
     "Locations/Karavaan.md",
-    "Sessions/Session 8.md",
     "Villages/Caer-Denival ❄️.md",
     "Pasted image 20260418221245.png",
     "Locations/Dinev's Rest.md",
     "Locations/Ruined Watchtower.md",
     "Villages/Lonelywood ❄️.md",
-    "Sessions/Sessions.md",
     "Sessions/Session 7.md",
     "Sessions/Session 6.md",
     "Sessions/Session 3.md",
-    "Sessions/Session 1.md",
-    "Villages/Bremen ❄️.md",
-    "Quests/Archin Brotherhood is slecht!.md",
     "images/favicon.png",
     "images/dnd_logo_white.png",
     "Pasted image 20250731194722.png",
-    "images/icewind_dale_map.png",
-    "images/icewind_dale_map_grid.png",
     "images/villages/bremen_map.png",
     "images/routes/route_session5.png",
     "images/villages/caer-konig_map.png",
-    "images/villages/dougans_hole_map.png",
     "images/homepage",
     "images/villages",
     "images",
