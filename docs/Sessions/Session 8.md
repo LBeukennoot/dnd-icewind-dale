@@ -8,7 +8,7 @@ Tegelijkertijd wordt er een nieuwe cold spell aangezet. Er komen memphids uit he
 >![[Letter_from_goodfriend_1.png]] [[Letter from Goodfriend (1)]]
 > Beste Drawr, 
 > 
-> Nass Lantomir moest vanuit de hosttower weg om 'ervaring' op te doen, maar heeft per ongeluk het geheime plan van de Archin Brotherhood afgeluisterd. Ze heeft hen naar Bryn Shander gevolgd en doet nu alsof ze hun kan helpen. 
+> [[Nass Lanthomir]] moest vanuit de hosttower weg om 'ervaring' op te doen, maar heeft per ongeluk het geheime plan van de Archin Brotherhood afgeluisterd. Ze heeft hen naar Bryn Shander gevolgd en doet nu alsof ze hun kan helpen. 
 > 
 > De waarheid? Ze wilt de Codicil of White (boek) vinden, een van Auril's handlangers, die blijkt de weg naar Ythryn te weten. Ze is vertrokken naar Sea of Moving Ice. 
 > 
