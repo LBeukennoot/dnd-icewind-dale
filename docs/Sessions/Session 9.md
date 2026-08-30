@@ -66,7 +66,7 @@ ik vind een klein van brons gemaakte sleutel, en een [[Scroll of Chardellyn]] in
 
 heilige symbool van mystrill, mistra the god of magic. dit soort heilige schrines, zitten vaak vol met mysterie. lars probeert een [[Magic Flask]] te pakken maar die valt, sara vangt m en 10 sec later reageert lars pas.
 
-de laatste kamer doet lies open. een kantoor met boeken, een amulet op de tafel. achter het bureau 2 figuren, 1 undead en 1 wizard: [[Dzaan]]. simulacrum is hij, want eigenlijk is hij verbrand in easthaven. volgens 'Dzaan' is zijn maker in de onderste kamer geweest waardoor deze simulatie zichtbaar is. Ze kunnen illusies waarheid maken. hij is een half mens, een schadum van de ware hij.
+de laatste kamer doet lies open. een kantoor met boeken, een amulet op de tafel. achter het bureau 2 figuren, 1 undead en 1 wizard: [[Dzaan]]. simulacrum is hij, want eigenlijk is hij verbrand in easthaven. volgens 'Dzaan' is zijn maker in de onderste kamer geweest waardoor deze simulatie zichtbaar is. Ze kunnen illusies waarheid maken. hij is een half mens, een schaduw van de ware hij.
 
 jesse doet insight op hoe betrouwbaar hij m vindt. hij kan redelijk vertrouwd worden, maar zijn enige doel is weer levend te worden.
 
