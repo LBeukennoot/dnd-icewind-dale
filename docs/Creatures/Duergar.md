@@ -6,3 +6,4 @@ we komen er 6 tegen in [[Session 9]]
 ze hebben geen fire resistance
 
 zitten ook veel in de [[Dwarven's valley]]
+resistant to poison
